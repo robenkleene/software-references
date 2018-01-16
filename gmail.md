@@ -1,12 +1,13 @@
 # Gmail
 
 * `gi`: Go inbox
+* `s`: Toggle starred
 
 ## Selecting
 
 * `*n`: Select none
 * `*u`: Select unread
-* `x`: Select message
+* `x`: Toggle selected message
 
 ### On Selected
 
