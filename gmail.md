@@ -13,3 +13,7 @@
 
 * `I`: Mark as read
 * `U`: Mark as unread
+
+## Special
+
+* `<ESC>`: To remove focus, then `gi` to go to the inbox
