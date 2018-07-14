@@ -7,3 +7,7 @@
 * `⌥⌘↓` / `⌥⌘↑`: Next and previous sheet
 * `⌥⌘F`: Show find and replace
 * `⌘←←`: Focus sheets
+
+## iOS
+
+To paste from markdown, use tap and hold and choose `Actions…`, `Paste…`, then `From Markdown`.
