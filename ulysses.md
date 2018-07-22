@@ -6,7 +6,7 @@
 
 * `⌥⌘↓` / `⌥⌘↑`: Next and previous sheet
 * `⌥⌘F`: Show find and replace
-* `⌘←←`: Focus sheets
+* `⌘←←`: Focus sheets (hit left twice)
 
 ## iOS
 
