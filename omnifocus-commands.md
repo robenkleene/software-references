@@ -8,3 +8,7 @@ Use `⇥` to edit it, and `↩` to commit editing.
 
 * `⌥⌘1`: Focus Sidebar
 * `⌥⌘2`: Focus Outline
+
+## Dates
+
+- `+1d`: To defer until tomorrow
