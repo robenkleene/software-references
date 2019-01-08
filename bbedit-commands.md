@@ -40,6 +40,7 @@ Splitting projects into multiple windows:
 - `⌃s`: Incremental Search
 - `↩`: Go To next match
 - `⇧↩`: Go To previous match
+- `ESC`: Exit search and start editing at the current match
 
 ## Disk Browsers
 
