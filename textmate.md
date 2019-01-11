@@ -1,4 +1,8 @@
 # TextMate
 
+## Sidebar
+
 - `⌃⌥⌘D`: Toggle sidebar
-- `⌃⌘`: Show current file in sidebar
+- `⌃⌘R`: Show current file in sidebar
+- `⌥⌘⇥`: Focus sidebar
+- `⌘↓`: Open current file in sidebar
