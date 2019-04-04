@@ -46,3 +46,7 @@ Splitting projects into multiple windows:
 
 - `⌥⌘N`: New Disk Browser
 - `⌘⇥`: Switch Focus
+
+## Splits
+
+- Double-click or drag the little notch at the top of the scroll bars to split or unsplit the current window
