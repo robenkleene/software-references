@@ -39,3 +39,10 @@ Magnets do not support snapping to grid. But they do support snapping to the 1/4
 
 * `⌥-click`: Absorb a style (just clicking will do this if the style brush is empty)
 * **Reset style brush**: Long click the icon, `Clear Contents`
+
+## Grid
+
+The grid settings are under "Canvas" in the right sidebar, some good settings are:
+
+- **Major Grid Spacing**: `40px`
+- **Minor Grid Steps**: `4px`
