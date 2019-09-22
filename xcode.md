@@ -12,12 +12,16 @@
 
 ## Assistant Editor
 
-- `⌥⌘,`: Open Current File in Assistant Editor
-- `⌥⌘↩`: Open Counterpart in Assistant Editor
+- `⌃⌘T`: New vertical editor
+- `⌃⌥⌘T`: New horizontal editor
+- `⌥⌘,`: Open in new editor (this appears the same as new vertical editor?)
+- `⌥⌘<`: Open in next editor
+- `^backtick`: Cycle editor focus
+- `⇧⌃backtick`: Cycle editor focus
+- `⌃⌥⌘W`: Close editor
+- `⇧⌃⌥⌘W`: Close other editors
 - `⌘J`: Show Focus Chooser
-- `⌥⌘backtick`: Switch focus between Assistant Editor
-- `⌘↩`: Close Assistant Editor
-- ``⌘` ``: Cycle editor focus
+- `⌥⌘backtick`: Move focus to next area (this will select the file list or an editor)
 
 ## Headers
 
