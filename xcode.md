@@ -25,5 +25,5 @@
 
 ### Highlight
 
-- `⌘J` / (Navigate -> "Move Focus to Editor..."): Highlight an editor and hit enter to move focus to it.
+- `⌘J` / (Navigate -> "Move Focus to Editor..."): Highlight an editor to move focus to it.
 - `⌥⌘<` / (Navigate -> "Open in..."): Highlight an editor to open the current file in it.
