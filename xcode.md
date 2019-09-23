@@ -8,8 +8,8 @@
 - `` ^` `` / ("Navigate" -> "Move Focus to Next Editor"): Move focus to the next editor.
 - `` ⇧⌃` ``: Move focus to the previous editor.
 - `` ⌥⌘` `` / ("Navigate" -> "Move Focus to Next Area") : Move focus to the next area (includes the Navigator and the Inspectors).
-- `` ⇧⌥⌘ ` ``: Move focus to the previous area (includes the Navigator and the Inspectors).
-- `⌃⌥⌘W`: Close the current editor.
+- `` ⇧⌥⌘` ``: Move focus to the previous area (includes the Navigator and the Inspectors).
+- `⌃⌥⌘W` / ("File" -> "Close Editor"): Close the current editor.
 - `⇧⌃⌥⌘W`: Close the other editors.
 
 ### Secondary
@@ -19,5 +19,5 @@
 
 ### Focus Chooser
 
-- `⌘J`: Show Focus Chooser
-- `⌥⌘<`: Choose an with the Focus Chooser to open the current file in.
+- `⌘J` / (Navigate -> "Move Focus to Editor..."): Highlight an editor and hit enter to move focus to it.
+- `⌥⌘<` / (Navigate -> "Open in..."): Highlight an editor to open the current file in it.
