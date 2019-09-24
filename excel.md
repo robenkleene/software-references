@@ -4,8 +4,12 @@
 
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-- Use paste add/multiple to do the same calculation on a bunch of cells
-- Select rows and select insert table to make it a table. You can then turn on a total row (including averages). Hit tab from the bottom right corner to create a row.
+
+## Tables
+
+- Select rows and select insert table to make it a table.
+- You can then turn on a total row (including averages).
+- Hit tab from the bottom right corner to create a row.
 
 ## Fill Handle
 
@@ -28,6 +32,7 @@ Use the fill handle (little box to the bottom right of a selection box), to fill
 When a group of cells are selected.
 
 - `⌃D`: Fill down
+- `⌃⌘V`: Paste special, e.g., to add or multiply all cells by the value on the clipboard
 
 #### Editing
 
