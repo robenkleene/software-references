@@ -1,0 +1,52 @@
+# Excel
+
+## Tips
+
+- Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
+- You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
+- Use paste add/multiple to do the same calculation on a bunch of cells
+- Select rows and select insert table to make it a table. You can then turn on a total row (including averages). Hit tab from the bottom right corner to create a row.
+
+## Fill Handle
+
+Use the fill handle (little box to the bottom right of a selection box), to fill a bunch of cells with a pattern.
+
+### Supported Lists
+
+- Days of the week
+- Dates
+- Incremented or decremented numbers
+
+## Editing
+
+- `⌃;`: Insert today's date
+- `⇧⌃$`: Format cell as currency
+- `⇧⌃%`: Format cell as percentage
+
+### Selection
+
+When a group of cells are selected.
+
+- `⌃D`: Fill down
+
+#### Editing
+
+When editing a cell.
+
+- `⌃↩`: Fill all selected cells with the same value
+- `⇥`: Edit the next selected cell.
+
+## R1C1
+
+R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch to R1C1 mode (in "Preferences" -> "General" -> "Use R1C1 reference style" to see what's going on under the hood.
+
+## Formula
+
+- Use `⌘T` when editing a formula to switch between a relative 
+
+### Symbols
+
+- `&`: Concatenates
+- `$`: Means absolute reference (as opposed to relative)
+- `'`: Start the value of a cell with an apostrophe to make it plain text (e.g., to enter a number that starts with leading zeros)
+
