@@ -5,6 +5,17 @@
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
 
+## Cell Styles
+
+Excel has some useful built-in styles under "Home" -> "Cell Styles".
+
+- Normal
+- Good
+- Bad
+- Neutral
+- Input: Something meant to be changed
+- Calculation: Something that is output
+
 ## Tables
 
 - Select rows and select insert table to make it a table.
