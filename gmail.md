@@ -14,6 +14,7 @@
 * `I`: Mark as read
 * `U`: Mark as unread
 * `e`: Archive
+* `y`: Archive
 
 ## Special
 
