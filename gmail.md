@@ -13,6 +13,7 @@
 
 * `I`: Mark as read
 * `U`: Mark as unread
+* `e`: Archive
 
 ## Special
 
