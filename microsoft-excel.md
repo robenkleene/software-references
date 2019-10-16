@@ -1,4 +1,30 @@
-# Excel
+# Microsoft Excel
+
+## Keyboard Shortcuts
+
+- `⇧␣`: Select row
+- `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
+
+### Editing
+
+- `⌃;`: Insert today's date
+- `⇧⌃$`: Format cell as currency
+- `⇧⌃%`: Format cell as percentage
+- `⌃-`: Delete rows
+
+### Selection
+
+When a group of cells are selected.
+
+- `⌃D`: Fill down
+- `⌃⌘V`: Paste special, e.g., to add or multiply all cells by the value on the clipboard
+
+#### Editing
+
+Editing a cell when there's a selection.
+
+- `⌃↩`: Fill all selected cells with the same value
+- `⇥`: Edit the next selected cell.
 
 ## Tips
 
@@ -34,27 +60,6 @@ Use the fill handle (little box to the bottom right of a selection box), to fill
 - Days of the week
 - Dates
 - Incremented or decremented numbers
-
-## Editing
-
-- `⌃;`: Insert today's date
-- `⇧⌃$`: Format cell as currency
-- `⇧⌃%`: Format cell as percentage
-- `⌃-`: Delete rows
-
-### Selection
-
-When a group of cells are selected.
-
-- `⌃D`: Fill down
-- `⌃⌘V`: Paste special, e.g., to add or multiply all cells by the value on the clipboard
-
-#### Editing
-
-When editing a cell.
-
-- `⌃↩`: Fill all selected cells with the same value
-- `⇥`: Edit the next selected cell.
 
 ## R1C1
 
