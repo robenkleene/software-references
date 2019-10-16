@@ -18,9 +18,12 @@ Excel has some useful built-in styles under "Home" -> "Cell Styles".
 
 ## Tables
 
-- Select rows and select insert table to make it a table.
-- You can then turn on a total row (including averages).
-- Hit tab from the bottom right corner to create a row.
+- Select a range and "Home" -> "Format as Table"
+- With any cell in the table selected, "Table" -> "Total Row"
+
+### Keyboard Shortcuts
+
+- `⇥`: Create a new row when the last cell in the table is selected
 
 ## Fill Handle
 
@@ -37,6 +40,7 @@ Use the fill handle (little box to the bottom right of a selection box), to fill
 - `⌃;`: Insert today's date
 - `⇧⌃$`: Format cell as currency
 - `⇧⌃%`: Format cell as percentage
+- `⌃-`: Delete rows
 
 ### Selection
 
