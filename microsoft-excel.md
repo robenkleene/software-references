@@ -4,6 +4,7 @@
 
 - `⇧␣`: Select row
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
+- `⌃U`: Edit current cell
 
 ### Editing
 
