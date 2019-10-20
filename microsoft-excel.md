@@ -31,6 +31,7 @@ Editing a cell when there's a selection.
 
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
+- To re-order columns: Select the column you want to move, then hover over its border and hold shift while dragging to move it into a new location (if you don't hold shift, it will replace the destination column).
 
 ## Cell Styles
 
