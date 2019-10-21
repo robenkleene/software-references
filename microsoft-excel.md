@@ -3,6 +3,7 @@
 ## Keyboard Shortcuts
 
 - `⇧␣`: Select row
+- `⌃␣`: Select column
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
 - `⌃U`: Edit current cell, when editing a cell, hit `⌘A` to switch to the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
 
@@ -29,6 +30,8 @@ Editing a cell when there's a selection.
 
 ## Tips
 
+- To clear formatting, use "Edit" -> "Clear" -> "Formats"
+- A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
 - To re-order columns: Select the column you want to move, then hover over its border and hold shift while dragging to move it into a new location (if you don't hold shift, it will replace the destination column).
