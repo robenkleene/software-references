@@ -4,7 +4,7 @@
 
 - `⇧␣`: Select row
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
-- `⌃U`: Edit current cell
+- `⌃U`: Edit current cell, when editing a cell, hit `⌘A` to switch to the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
 
 ### Editing
 
