@@ -47,6 +47,12 @@ Excel has some useful built-in styles under "Home" -> "Cell Styles".
 - Input: Something meant to be changed
 - Calculation: Something that is output
 
+## Delimited Data
+
+To add comma- or tab-delimited data, paste it into one cell, then select "Data" -> "Text to Columns"
+
+1. Paste the data into one cell
+
 ## Tables
 
 - Select a range and "Home" -> "Format as Table"
