@@ -79,7 +79,7 @@ R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch t
 
 ## Formula
 
-- Use `⌘T` when editing a formula to switch between a relative 
+- Use `⌘T` when editing a formula to switch between relative
 
 ### Symbols
 
