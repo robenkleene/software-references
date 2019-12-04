@@ -34,7 +34,7 @@ Editing a cell when there's a selection.
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-- To re-order columns: Select the column you want to move, then hover over its border and hold shift while dragging to move it into a new location (if you don't hold shift, it will replace the destination column).
+- To re-order columns: Select the column you want to move, then hover over the border of the header (hand icon) and hold shift while dragging to move it into a new location (if you don't hold shift, it will replace the destination column).
 
 ## Cell Styles
 
@@ -57,6 +57,7 @@ To add comma- or tab-delimited data, paste it into one cell, then select "Data" 
 
 - Select a range and "Home" -> "Format as Table"
 - With any cell in the table selected, "Table" -> "Total Row"
+- Add a total row by going to "Table" in the Ribbon, and clicking the "Total Row" checkbox (it's only visible when a cell in the table is selected)
 
 ### Keyboard Shortcuts
 
