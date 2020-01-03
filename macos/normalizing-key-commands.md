@@ -70,3 +70,7 @@ Summary of what works: All movement commands and delete forward commands
 ## Resources
 
 - [mountain lion - Emacsify OSX throughout: word-forward (⌥ + F) and word-backward (⌥ + B) instead of 'special characters'? - Ask Different](http://apple.stackexchange.com/questions/68716/emacsify-osx-throughout-word-forward-f-and-word-backward-b-instead)
+
+## iOS Only
+
+On iOS, only the `⌃` based keys work, the `⌥` do not work.
