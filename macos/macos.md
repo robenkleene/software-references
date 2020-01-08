@@ -10,3 +10,7 @@
 - To reveal an app, command-click it
 - To reveal an item in a folder, command-click it
 - To open the contents of a folder command-option-click it
+
+## Movement
+
+- `⌃⌥f` / `⌃⌥b`: Move forward and backward by character
