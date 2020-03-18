@@ -6,3 +6,7 @@
 ## Clean Caches
 
 - "File" > "Delete Generated Project Files"
+
+## Export
+
+For YouTube, Choose "Format: Computer" and "H.264 Better Quality".
