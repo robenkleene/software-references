@@ -5,6 +5,7 @@
 - `⇧␣`: Select row
 - `⌃␣`: Select column
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
+- `⇧⌃+`: Insert column (same shortcut as above?)
 - `⌃U`: Edit current cell, when editing a cell, hit `⌘A` to switch to the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
 
 ### Editing
@@ -12,7 +13,7 @@
 - `⌃;`: Insert today's date
 - `⇧⌃$`: Format cell as currency
 - `⇧⌃%`: Format cell as percentage
-- `⌃-`: Delete rows
+- `⌃-`: Delete rows or columns
 
 ### Selection
 
@@ -34,7 +35,7 @@ Editing a cell when there's a selection.
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-- To re-order columns: Select the column you want to move, then hover over the border of the header (hand icon) and hold shift while dragging to move it into a new location (if you don't hold shift, it will replace the destination column).
+- To re-order columns: Select the column you want to move, then hover over its *border* until a hand icon appears, then drag to move. If a move is going to happen, Excel should show a green line between columns illustrating the new location, if instead the entire column is being highlighted, that will be a replace rather than a move. (This has been unreliable, if a replace is being triggered, i.e., the entire column is being highlighted, try holding `⇧` while dragging).
 
 ## Cell Styles
 
@@ -52,16 +53,6 @@ Excel has some useful built-in styles under "Home" -> "Cell Styles".
 To add comma- or tab-delimited data, paste it into one cell, then select "Data" -> "Text to Columns"
 
 1. Paste the data into one cell
-
-## Tables
-
-- Select a range and "Home" -> "Format as Table"
-- With any cell in the table selected, "Table" -> "Total Row"
-- Add a total row by going to "Table" in the Ribbon, and clicking the "Total Row" checkbox (it's only visible when a cell in the table is selected)
-
-### Keyboard Shortcuts
-
-- `⇥`: Create a new row when the last cell in the table is selected
 
 ## Fill Handle
 
