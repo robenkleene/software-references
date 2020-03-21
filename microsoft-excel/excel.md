@@ -28,6 +28,7 @@ Editing a cell when there's a selection.
 
 - `⌃↩`: Fill all selected cells with the same value
 - `⇥`: Edit the next selected cell.
+- To insert a link, enter the link text, finish editing the cell, and choose "Insert > Link"
 
 ## Tips
 
