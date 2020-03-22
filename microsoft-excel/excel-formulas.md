@@ -1,5 +1,7 @@
 # Excel Formulas
 
+- `<>`: Not equal
+
 ## Join
 
 Get the index:
