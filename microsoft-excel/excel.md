@@ -14,6 +14,7 @@
 - `⇧⌃$`: Format cell as currency
 - `⇧⌃%`: Format cell as percentage
 - `⌃-`: Delete rows or columns
+- `⌘K`: Edit shortcut
 
 ### Selection
 
