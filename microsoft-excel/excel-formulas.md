@@ -14,6 +14,14 @@ The `0` forces an exact match.
 
 The `2` is the index offset of the value you're looking for.
 
+### Sum
+
+Use an `ID` to get the sum of rows in a different column:
+
+	=SUMIF(Funding[ID], [@ID], Funding[Amount])
+
+`Funding[ID]` Get the list of `ID` from the `Funding` column, `[@ID]` test if matches the `ID` in this column, `Funding[Amount]` sum all the `Amount` values that match in the `Funding` table.
+
 ## Names
 
 In a table, columns are automatically named by their headers. To name a table, do so under "Table" -> "Table Name:".
