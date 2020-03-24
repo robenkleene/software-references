@@ -23,7 +23,7 @@ When a group of cells are selected.
 - `⌃D`: Fill down
 - `⌃⌘V`: Paste special, e.g., to add or multiply all cells by the value on the clipboard
 
-#### Editing
+### Editing
 
 Editing a cell when there's a selection.
 
@@ -37,7 +37,14 @@ Editing a cell when there's a selection.
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-- To re-order columns: Select the column you want to move, then hover over its *border* until a hand icon appears, then drag to move. If a move is going to happen, Excel should show a green line between columns illustrating the new location, if instead the entire column is being highlighted, that will be a replace rather than a move. (This has been unreliable, if a replace is being triggered, i.e., the entire column is being highlighted, try holding `⇧` while dragging).
+
+## Columns
+
+### Re-Ordering Columns
+
+1. First select the entire column `^␣` twice.
+2. Hover over the column's border until a hand icon appears.
+3. Drag the column to it's new location, a green line should be display between columns showing where the column will be moved to. (If instead an entire destination column is being highlighted, or a single cell, then a move will not happen, you probably have to select the whole column.)
 
 ## Cell Styles
 
