@@ -1,3 +1,0 @@
-# DuckDuckGo
-
-- `! [term]`: Feeling Lucky
