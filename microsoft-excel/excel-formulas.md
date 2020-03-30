@@ -1,5 +1,16 @@
 # Excel Formulas
 
+## Shortcuts
+
+- `F9`: Evaluate and replace contents of a selected part of a formula
+
+## Errors
+
+- `#VALUE!`: Generic error
+- `#NAME?`: A reference to another cell in your formula is invalid
+
+## Syntax
+
 - `<>`: Not equal
 
 ## Join

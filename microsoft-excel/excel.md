@@ -19,6 +19,8 @@
 - `⇧⌃%`: Format cell as percentage
 - `⌃-`: Delete rows or columns
 - `⌘K`: Edit shortcut
+- `⌘A`: Jump between editing in the cell and in the formula bar
+- `⌃A`: Select all in the formula bar
 
 ### Selection
 
