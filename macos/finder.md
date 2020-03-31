@@ -1,0 +1,3 @@
+# Finder
+
+- `⌥⌘C`: Copy path
