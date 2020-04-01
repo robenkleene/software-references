@@ -9,6 +9,10 @@
 - `#VALUE!`: Generic error
 - `#NAME?`: A reference to another cell in your formula is invalid
 
+### Handling
+
+- `IFERROR`: Replace error with blank
+
 ## Syntax
 
 - `<>`: Not equal
