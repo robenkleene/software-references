@@ -21,6 +21,10 @@
 - `⌘K`: Edit shortcut
 - `⌘A`: Jump between editing in the cell and in the formula bar
 - `⌃A`: Select all in the formula bar
+- `↩`: Stop editing and go the cell below
+- `⇥`: Stop editing and go next cell
+- `⌃↩`: Stop editing and stay in current cell
+- `⌥↩`: Enter multiple lines of text
 
 ### Selection
 
