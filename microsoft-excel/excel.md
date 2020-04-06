@@ -4,6 +4,7 @@
 
 - `⇧␣`: Select row
 - `⌃␣`: Select column
+- `⌘A`: Select table
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
 - `⇧⌃+`: Insert column (same shortcut as above?)
 - `⌃U`: Edit current cell, when editing a cell, hit `⌘A` to switch to the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
@@ -12,7 +13,7 @@
 
 - `^PgDn` / `^PgUp`: Go to next / previous worksheet
 
-### Editing
+## Editing
 
 - `⌃;`: Insert today's date
 - `⇧⌃$`: Format cell as currency
@@ -26,14 +27,14 @@
 - `⌃↩`: Stop editing and stay in current cell
 - `⌥↩`: Enter multiple lines of text
 
-### Selection
+## Selection
 
 When a group of cells are selected.
 
 - `⌃D`: Fill down
 - `⌃⌘V`: Paste special, e.g., to add or multiply all cells by the value on the clipboard
 
-### Editing
+## Cell Editing
 
 Editing a cell when there's a selection.
 
@@ -43,6 +44,7 @@ Editing a cell when there's a selection.
 
 ## Tips
 
+- Select "Format > Column > AutoFit Selection" to autofit all rows
 - To clear formatting, use "Edit" -> "Clear" -> "Formats"
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
