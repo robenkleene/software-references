@@ -50,6 +50,13 @@ Editing a cell when there's a selection.
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
 
+## Transpose
+
+To swap the orientation of rows and columns:
+
+1. If you're using a Table, you need to convert it to a range first: "Table > Convert to Range"
+2. Copy the cells, then select "Home > Paste > Transpose"
+
 ## Columns
 
 ### Re-Ordering Columns
