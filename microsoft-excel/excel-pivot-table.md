@@ -22,6 +22,12 @@
 - **Var:** An estimate of the variance of a population, where the sample is a subset of the entire population.
 - **Varp:** The variance of a population, where the population is all of the values to be summarized.
 
-## Error Values
+## Errors
+
+### Hiding
 
 Right-click the table and select "PivotTable Options...", then check "Display > Error values as:" and choose a default value.
+
+### Naming Collusion
+
+- "PivotTable field name already exists", if this matches a deleted column, you probably need to right-click and "Refresh" your table.
