@@ -21,3 +21,7 @@
 - **StDevp:** The standard deviation of a population, where the population is all of the values to be summarized.
 - **Var:** An estimate of the variance of a population, where the sample is a subset of the entire population.
 - **Varp:** The variance of a population, where the population is all of the values to be summarized.
+
+## Error Values
+
+Right-click the table and select "PivotTable Options...", then check "Display > Error values as:" and choose a default value.
