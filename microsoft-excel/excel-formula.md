@@ -8,6 +8,7 @@
 
 - `#VALUE!`: Generic error
 - `#NAME?`: A reference to another cell in your formula is invalid
+- `#N/A`: Something can't be found or identified
 
 ### Handling
 
