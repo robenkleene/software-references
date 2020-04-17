@@ -4,6 +4,15 @@
 
 - `F9`: Evaluate and replace contents of a selected part of a formula
 
+## Names
+
+In a table, columns are automatically named by their headers. To name a table, do so under "Table" -> "Table Name:".
+
+## Syntax
+
+- `<>`: Not equal
+- `$`: Is a locked reference, e.g., when the formula is cut & pasted, those cells will not change `=FORECAST.LINEAR([@Year],F2:F6,$A$2:$A$6)`
+
 ## Errors
 
 - `#VALUE!`: Generic error
@@ -14,11 +23,11 @@
 
 - `IFERROR`: Replace error with blank
 
-## Syntax
+## Functions
 
-- `<>`: Not equal
+- `=FORECAST.LINEAR(x, known_y’s, known_x’s)`: `=FORECAST.LINEAR([@Year],B2:B6,A2:A6)`
 
-## Join
+### Join
 
 Get the index:
 
@@ -37,7 +46,3 @@ Use an `ID` to get the sum of rows in a different column:
 	=SUMIF(Funding[ID], [@ID], Funding[Amount])
 
 `Funding[ID]` Get the list of `ID` from the `Funding` column, `[@ID]` test if matches the `ID` in this column, `Funding[Amount]` sum all the `Amount` values that match in the `Funding` table.
-
-## Names
-
-In a table, columns are automatically named by their headers. To name a table, do so under "Table" -> "Table Name:".
