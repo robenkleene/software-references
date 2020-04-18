@@ -3,7 +3,8 @@
 ## Shortcuts
 
 - `F9`: Evaluate and replace contents of a selected part of a formula
-- `F2`: Switch between edit and formula mode when editing a cell
+- `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard
+- Double-click a value then select cells to replace that value.
 
 ## Names
 
