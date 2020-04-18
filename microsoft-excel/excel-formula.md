@@ -3,8 +3,14 @@
 ## Shortcuts
 
 - `F9`: Evaluate and replace contents of a selected part of a formula
-- `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard
+- `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
+- `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
+
+### Tips
+
 - Double-click a value then select cells to replace that value.
+- When editing a function in a formula, a bar appears below the cell with the function signature, clicking the arguments in that function signature select that argument.
+- Windows Excel has a "Formula > Evaluate Formula" button that lets you step through formula, this button isn't in the Mac version.
 
 ## Names
 
