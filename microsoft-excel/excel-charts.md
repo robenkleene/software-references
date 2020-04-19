@@ -13,3 +13,4 @@ Under "Design" you can:
 - Select a theme
 - Change the colors under "Change Colors"
 - Change the layout with "Quick Layout"
+- Add axes under "Add Chart Element"
