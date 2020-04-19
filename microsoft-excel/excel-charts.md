@@ -5,3 +5,11 @@
 ## Vector
 
 - Charts can be copied and pasted to Photoshop as Vector Smart Objects that can be resized.
+
+## Design
+
+Under "Design" you can:
+
+- Select a theme
+- Change the colors under "Change Colors"
+- Change the layout with "Quick Layout"
