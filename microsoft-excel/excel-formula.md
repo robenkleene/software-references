@@ -30,6 +30,7 @@ In a table, columns are automatically named by their headers. To name a table, d
 ### Handling
 
 - `IFERROR`: Replace error with blank
+- `=IF(ISERR(D3),IF(ERROR.TYPE(D3)=2,0,NA()),D3)`: Return different values based on error type
 
 ## Functions
 
