@@ -44,6 +44,7 @@ Editing a cell when there's a selection.
 
 ## Tips
 
+- To resize all columns to fit, first click the special cell in the upper left where the row and column indexes meet, this should highlight the entire spreadsheet. While the whole spreadsheet is highlighted, clicking between columns as you would you normally resize a single column, will resize all columns.
 - Select "Format > Column > AutoFit Selection" to autofit all rows
 - To clear formatting, use "Edit" -> "Clear" -> "Formats"
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
