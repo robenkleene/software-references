@@ -3,6 +3,8 @@
 - `=` / `-`: Zoom in and out
 - `T`: Split
 
+## Aspect Ratio
+
 ## Tips
 
 To select an entire track, right-click and select "Track Selection > All Clips"
