@@ -65,13 +65,16 @@ To swap the orientation of rows and columns:
 
 1. First select the column with `^␣`. There are three possible selection states for a column, which determines what happens when the column is moved:
 
-    1. *Just the cells are selected*, moving this will cause the moved cells to replace the cells they are moved to, preserving the headers.
+    1. *Just the cells are selected*, moving this will cause the moved cells to replace the cells that are moved to, preserving the headers.
     2. *The cells and header are selected*, moving this will move the column between another column.
 	3. *The cells, header, and top label are selected*, moving this will replacing the headers and cells in another column.
 
 	Hitting `^␣` will progress through these states in order, starting by just selecting the cells, unless header is selected, in which case the cells and data will be selected.
 2. Hover over the column's border until a hand icon appears.
-3. Drag the column to it's new location, a green line should be display between columns showing where the column will be moved to. (If instead an entire destination column is being highlighted, or a single cell, then a move will not happen, you probably have to select the whole column.)
+3. Drag the column to it's new location. Visual indication will determine which action will be performed:
+	1. *A selection box appears around the destination cells with a cell range hover label* (e.g., `C2:C10`) appearing. This means the moved cells will replace the cells that are moved to.
+	2. *A line appears between the destination columns with a cell range hover label* (e.g., `C2:C10`) appearing, this means the column will be moved between columns where the line appears.
+	3. *A selection box appears around the destination cells with a cell column hover label* (e.g., `C:C`) appearing. This means the moved column will replace the column that is moved to.
 
 ## Cell Styles
 
