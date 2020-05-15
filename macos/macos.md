@@ -12,6 +12,10 @@
 - To reveal an item in a folder, command-click it
 - To open the contents of a folder command-option-click it
 
+## Notes
+
+- To check if an app is sandboxed, just check the "App Sandbox" column in Activity Monitor.
+
 ## Movement
 
 - `⌃⌥f` / `⌃⌥b`: Move forward and backward by character
