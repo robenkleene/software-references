@@ -2,6 +2,7 @@
 
 ## Shortcuts
 
+- Use `⌘T` when editing a formula to switch between relative
 - `F9`: Evaluate and replace contents of a selected part of a formula
 - `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
 - `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
@@ -19,7 +20,9 @@ In a table, columns are automatically named by their headers. To name a table, d
 ## Syntax
 
 - `<>`: Not equal
-- `$`: Is a locked reference, e.g., when the formula is cut & pasted, those cells will not change `=FORECAST.LINEAR([@Year],F2:F6,$A$2:$A$6)`
+- `$`: Is a locked reference, e.g., when the formula is cut & pasted, those cells will not change `=FORECAST.LINEAR([@Year],F2:F6,$A$2:$A$6)`(absolute reference as opposed to relative)
+- `&`: Concatenates
+- `'`: Start the value of a cell with an apostrophe to make it plain text (e.g., to enter a number that starts with leading zeros)
 
 ## Errors
 

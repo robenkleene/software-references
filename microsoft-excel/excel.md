@@ -44,15 +44,6 @@ Editing a cell when there's a selection.
 - `⇥`: Edit the next selected cell.
 - To insert a link, enter the link text, finish editing the cell, and choose "Insert > Link"
 
-## Tips
-
-- To resize all columns to fit, first click the special cell in the upper left where the row and column indexes meet, this should highlight the entire spreadsheet. While the whole spreadsheet is highlighted, clicking between columns as you would you normally resize a single column, will resize all columns.
-- Select "Format > Column > AutoFit Selection" to auto-fit all rows
-- To clear formatting, use "Edit" -> "Clear" -> "Formats"
-- A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
-- Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
-- You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-
 ## Transpose
 
 To swap the orientation of rows and columns:
@@ -108,13 +99,13 @@ Use the fill handle (little box to the bottom right of a selection box), to fill
 
 R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch to R1C1 mode (in "Preferences" -> "General" -> "Use R1C1 reference style" to see what's going on under the hood.
 
-## Formula
 
-- Use `⌘T` when editing a formula to switch between relative
+## Tips
 
-### Symbols
-
-- `&`: Concatenates
-- `$`: Means absolute reference (as opposed to relative)
-- `'`: Start the value of a cell with an apostrophe to make it plain text (e.g., to enter a number that starts with leading zeros)
-
+- To resize all columns to fit, first click the special cell in the upper left where the row and column indexes meet, this should highlight the entire spreadsheet. While the whole spreadsheet is highlighted, clicking between columns as you would you normally resize a single column, will resize all columns.
+- Select "Format > Column > AutoFit Selection" to auto-fit all rows
+- To clear formatting, use "Edit" -> "Clear" -> "Formats"
+- A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
+- Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
+- You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
+- To remove the "Number stored as text" error, select all the cells with this warning then click the yellow warning icon and select "Ignore Error".
