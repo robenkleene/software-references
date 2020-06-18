@@ -1,5 +1,13 @@
 # Excel Charts
 
+## Adding a Chart
+
+1. Select the data
+2. Go to "Insert" in the ribbon
+3. Click the type of chart you'd like to add
+
+## Axes
+
 - To change the axis, right-click the chart and select "Select Data...", then delete the existing entry in "Horizontal (Category) axis labels" and highlight the cells in the spreadsheet.
 
 ## Vector
