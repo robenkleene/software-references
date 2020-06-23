@@ -22,3 +22,7 @@ Under "Design" you can:
 - Change the colors under "Change Colors"
 - Change the layout with "Quick Layout"
 - Add axes under "Add Chart Element"
+
+## Tips
+
+- There's no way to swap the X and Y axes automatically, there is a "Switch Row/Column" button under "Chart Design", but that does something different. To swap the axes, cut and paste between the two "Y values" and "Horizontal (Category) axis labels".
