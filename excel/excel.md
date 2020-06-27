@@ -108,4 +108,3 @@ R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch t
 - A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
-- To remove the "Number stored as text" error, select all the cells with this warning then click the yellow warning icon and select "Ignore Error".
