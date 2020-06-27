@@ -8,7 +8,6 @@
 - `⌘A`: Select table
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
 - `⇧⌃+`: Insert column (same shortcut as above?)
-- `⌃U`: Edit current cell, when editing a cell, hit `⌘A` to switch to the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
 - `⌘⌥v v ↩`: Paste values
 
 ## Navigation
@@ -17,12 +16,13 @@
 
 ## Editing
 
+- `⌃U`: Edit current cell, when editing a cell
 - `⌃;`: Insert today's date
 - `⇧⌃$`: Format cell as currency
 - `⇧⌃%`: Format cell as percentage
 - `⌃-`: Delete rows or columns
-- `⌘K`: Edit shortcut
-- `⌘A`: Jump between editing in the cell and in the formula bar
+- `⌘K`: Edit link
+- `⌘A`: Jump between editing in the cell and in the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
 - `⌃A`: Select all in the formula bar
 - `↩`: Stop editing and go the cell below
 - `⇥`: Stop editing and go next cell
