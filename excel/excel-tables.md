@@ -1,6 +1,6 @@
 # Excel Tables
 
-- Select a range and "Home" -> "Format as Table"
+- Select a range and "Home" -> "Format as Table" (`⌘T`)
 - With any cell in the table selected, "Table" -> "Total Row"
 - Add a total row by going to "Table" in the Ribbon, and clicking the "Total Row" checkbox (it's only visible when a cell in the table is selected)
 
