@@ -18,8 +18,6 @@
 
 - `⌃U`: Edit current cell, when editing a cell
 - `⌃;`: Insert today's date
-- `⇧⌃$`: Format cell as currency
-- `⇧⌃%`: Format cell as percentage
 - `⌃-`: Delete rows or columns
 - `⌘K`: Edit link
 - `⌘A`: Jump between editing in the cell and in the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
@@ -99,12 +97,9 @@ Use the fill handle (little box to the bottom right of a selection box), to fill
 
 R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch to R1C1 mode (in "Preferences" -> "General" -> "Use R1C1 reference style" to see what's going on under the hood.
 
-
 ## Tips
 
 - To resize all columns to fit, first click the special cell in the upper left where the row and column indexes meet, this should highlight the entire spreadsheet. While the whole spreadsheet is highlighted, clicking between columns as you would you normally resize a single column, will resize all columns.
 - Select "Format > Column > AutoFit Selection" to auto-fit all rows
-- To clear formatting, use "Edit" -> "Clear" -> "Formats"
-- A more precise way to clear formatting is to open cell styles `⌘1` and select "Font" -> "Normal Font"
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
