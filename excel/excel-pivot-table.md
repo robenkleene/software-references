@@ -1,9 +1,13 @@
 # Excel Pivot Table
 
+## Basics
+
+- To move existing fields, drag the fields between "Filters", "Columns", "Rows", and "Values"
+- To delete existing fields, drag the fields off of the Pivot Table sidebar
 - To create a Pivot Table, in the toolbar, select "Insert > Tables > PivotTable"
-- To add newly added fields to the Pivot Table, right-click and select "Refresh".
-- A pivot table is for summarizing data.
-- To get around the "Pivot Table field name already exists" error when renaming a column to the same name as a column in an existing table, the convention is to add a space to the end of the column name.
+- If a newly added field isn't appearing in the Pivot Table, right-click and select "Refresh".
+
+## Editing
 
 ## Tips
 
@@ -24,6 +28,8 @@
 - **Varp:** The variance of a population, where the population is all of the values to be summarized.
 
 ## Errors
+
+- To get around the "Pivot Table field name already exists" error when renaming a column to the same name as a column in an existing table, the convention is to add a space to the end of the column name.
 
 ### Hiding
 
