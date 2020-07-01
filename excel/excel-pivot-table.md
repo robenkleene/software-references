@@ -6,12 +6,8 @@
 - To delete existing fields, drag the fields off of the Pivot Table sidebar
 - To create a Pivot Table, in the toolbar, select "Insert > Tables > PivotTable"
 - If a newly added field isn't appearing in the Pivot Table, right-click and select "Refresh".
-
-## Editing
-
-## Tips
-
 - Hide "Grand Totals": "Design > Grand Totals > Hide for Rows and Columns"
+- You can change the formatting for cells  (`⌘1`) just like you would for regular cells (e.g., to display dates).
 
 ## Summarize
 
