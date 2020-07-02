@@ -8,7 +8,13 @@
 
 ## Axes
 
-- To change the axis, right-click the chart and select "Select Data...", then delete the existing entry in "Horizontal (Category) axis labels" and highlight the cells in the spreadsheet.
+### Axis Date
+
+To change the axis, right-click the chart and select "Select Data...", then delete the existing entry in "Horizontal (Category) axis labels" and highlight the cells in the spreadsheet.
+
+### Axis Formatting
+
+Right-click the axis and select "Format Axis..." (or click the axis, and select "Axis Options" in the sidebar), this has options like setting the minimum, maximum, and increment. As well as for type formatting like dates.
 
 ## Vector
 
