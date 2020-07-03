@@ -103,3 +103,7 @@ R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch t
 - Select "Format > Column > AutoFit Selection" to auto-fit all rows
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
 - You can give a cell or a column a variable name (use "Formulas" -> "Define Name"), and then refer to it by name in formula.
+
+## Notes
+
+- You can add a note or a comment under "Review".
