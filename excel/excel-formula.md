@@ -58,3 +58,7 @@ Use an `ID` to get the sum of rows in a different column:
 	=SUMIF(Funding[ID], [@ID], Funding[Amount])
 
 `Funding[ID]` Get the list of `ID` from the `Funding` column, `[@ID]` test if matches the `ID` in this column, `Funding[Amount]` sum all the `Amount` values that match in the `Funding` table.
+
+## Examples
+
+- `=DATEDIF([@[2.0]], [@[3.0]], "D")`: Show duration in days
