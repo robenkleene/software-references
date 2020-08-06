@@ -1,4 +1,4 @@
-# Chrome
+# Google Chrome
 
 - `⇧⌘R`: Refresh and clear cache
 
