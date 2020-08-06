@@ -13,4 +13,4 @@ To delete the Chrome "apps", click the "apps" icon in the bookmark bar and right
 
 ## Opening Bookmark Folders
 
-You can open a folder of bookmarks in tabs by going to the "Bookmarks > Bookmark Manager…" (`⌥⌘B`) and then using the sideways dots menu on the right, and choosing "Open All in New Window"
+You can open a folder of bookmarks in tabs by going to the "Bookmarks > Bookmark Manager…" (`⌥⌘B`) and then either right-clicking the folder name, or using the sideways dots menu on the right, and choosing "Open All in New Window".
