@@ -6,6 +6,8 @@ Recording screencasts with QuickTime and editing in After Effects.
 
 Open QuickTime, select "File > New Screen Recording" (`⌃⌘N`), record then trim and save.
 
+Or just use `⇧⌘5`.
+
 ## Edit in After Effects
 
 1. Make a new composition `1080x720`. (Set "Editing Mode: `HDV 1080p`"
