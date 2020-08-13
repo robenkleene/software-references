@@ -1,5 +1,9 @@
 # OBS
 
+## Monitoring
+
+You can monitor your mic by clicking the gear icon for the audio, choosing `Advanced Audio Properties`, and then choosing `Monitor and Output` under `Audio Monitoring`.
+
 ## Notes
 
 - Use `⌘↩` when to accept a new scene name otherwise it won't save
