@@ -13,6 +13,10 @@
 
 - To resize the screen in the OBS preview, right-click the screen preview and select "Transform > Fit to Screen".
 
+## Adjustments
+
+You can make adjustments, like adding a filter to adjust brightness, by right-clicking a source and selecting "Filters".
+
 ## Permissions
 
 - **Input Monitoring**: For hot keys to work.
