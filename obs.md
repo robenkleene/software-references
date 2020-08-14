@@ -24,3 +24,8 @@ You can make adjustments, like adding a filter to adjust brightness, by right-cl
 ## Permissions
 
 - **Input Monitoring**: For hot keys to work.
+
+## Formats
+
+- Record to `mkv`, because `mp4` requires a finalization process before the video file is usable, therefore, if there's a crash while recording, the video file might be unusable.
+- `mkv` is not supported by Adobe Premiere or Final Cut Pro, so some work will be needed to edit these files in those applications. It appears to be possible by just changing the container without modifying the original audio and video tracks at all. The process is roughly to take the video track (with is probably `H.264`), and the audio track (`aac` or `mp3`), and put them in a new `mp4` container.
