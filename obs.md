@@ -12,6 +12,19 @@ You can monitor your mic by clicking the gear icon for the audio, choosing `Adva
 
 - You can capture computer audio by selecting "Loopback Audio" as the output source.
 - To mute an audio source, click the speaker icon
+- In order to have per scene control over audio sources, you need to disable `Mic/Auxiliary Audio` in `Preferences > Audio`.
+- To make an external Mix sound good, add a `Noise Suppression` filter
+
+### Levels
+
+- Rule of thumb: Music high in the green, voice in the yellow, without ever peaking
+
+### Ducking
+
+To make the music level automatically reduce when talking.
+
+1. Add a `Compressor` to filters
+2. Set `Ratio: 10` or (`Ratio: 5`), `Threshold: -30`, `Attack: 2`, `Release: 650`, `Output Gain: 0`, `Sidechain: Mic`
 
 ## Screen
 
