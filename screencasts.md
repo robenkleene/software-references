@@ -14,3 +14,7 @@ Or just use `⇧⌘5`.
 2. Save the project in a new directory, and drag your footage into that directory
 3. Drag your footage into the composition
 4. Hold shift and drag to resize the footage to the right size
+
+## Material
+
+A 
