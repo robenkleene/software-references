@@ -17,4 +17,12 @@ Or just use `⇧⌘5`.
 
 ## Material
 
-A 
+### `git`
+
+Demonstrating anything with `git` can be hard because you might not have a commit checked out to look at. An easy way to quick setup an environment where you can simulate a working directory with changes is to run the following commands:
+
+    git checkout <rev>~1
+    git show <rev> | git apply
+
+What this does is go to a commit, and then revert that current commit, but only in the working tree. This simulates being in the situation of about to apply that commit.
+
