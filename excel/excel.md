@@ -10,6 +10,9 @@
 - `⇧⌃+`: Insert column (same shortcut as above?)
 - `⌘⌥v v ↩`: Paste values
 - `⇧F10`: Open right-click menu
+- `⌃F2`: Focus menubar
+- `⌘⌥R`: Toggle ribbon
+- `F6`: Focus ribbon (this is practically useless)
 
 ## Navigation
 
