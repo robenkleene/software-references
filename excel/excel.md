@@ -19,6 +19,7 @@
 
 - `⌃U`: Edit current cell, when editing a cell
 - `⌃;`: Insert today's date
+- `⌘;`: Insert current time
 - `⌃-`: Delete rows or columns
 - `⌘K`: Edit link
 - `⌘A`: Jump between editing in the cell and in the formula bar (another option to edit in the formula bar is to turn off the "Edit Directly in Cell" preference, although this means you can never edit in the cell, even when not editing a formula)
