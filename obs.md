@@ -1,5 +1,9 @@
 # OBS
 
+## Tips
+
+- You can lock any layer just by clicking the lock icon.
+
 ## Monitoring
 
 You can monitor your mic by clicking the gear icon for the audio, choosing `Advanced Audio Properties`, and then choosing `Monitor and Output` under `Audio Monitoring`.
