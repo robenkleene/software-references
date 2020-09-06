@@ -1,6 +1,10 @@
 # iA Writer
 
-	- `⇧⌘O`: Quick open
+- `⇧⌘O`: Quick open
+
+## Search
+
+To search within a file, use find and replace using the search option in the keyboard bar. The `>>` icon goes to the first match.
 
 ## Tips
 
