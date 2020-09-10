@@ -1,8 +1,12 @@
 # OmniGraffle
 
+## Lists
+
+- The bullet list options are with the rulers (`View > Rulers` or `⌘R`).
+
 ## Tool Shortcuts
 
-Tapping the lettered tool short cuts
+Tapping the lettered tool shortcuts.
 
 ## Tips & Tricks
 
