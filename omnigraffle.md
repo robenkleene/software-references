@@ -4,6 +4,7 @@
 
 - The bullet list options are with the rulers (`View > Rulers` or `⌘R`).
 - `⌘+` / `⌘-`: Increase / decrease font size.
+- `⇧⌘{` / `⇧⌘}` / `⇧⌘|`: Align text left / right / center.
 
 ## Tool Shortcuts
 
@@ -48,6 +49,10 @@ Magnets do not support snapping to grid. But they do support snapping to the 1/4
 ## Grid
 
 The grid settings are under "Canvas" in the right sidebar, some good settings are:
+
+- `⌘/`: Toggle grid lines
+
+### Good Settings
 
 - **Major Grid Spacing**: `40px`
 - **Minor Grid Steps**: `4px`
