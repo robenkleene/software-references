@@ -19,6 +19,14 @@ You can monitor your mic by clicking the gear icon for the audio, choosing `Adva
 - In order to have per scene control over audio sources, you need to disable `Mic/Auxiliary Audio` in `Preferences > Audio`.
 - To make an external Mix sound good, add a `Noise Suppression` filter
 
+## Video
+
+### Video Thumbnail
+
+- Dragging with `⇧` turns off constrained proportions
+- Dragging with `⌥` crops
+- You can also crop by right-clicking and choosing `Transform > Edit Transform...`
+
 ### Levels
 
 - Rule of thumb: Music high in the green, voice in the yellow, without ever peaking
