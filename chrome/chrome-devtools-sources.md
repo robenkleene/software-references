@@ -8,3 +8,10 @@ To set up Sources so that making a changing in the inspector changes a CSS file 
     - If changing the element will save to a file, it will have a green icon next to it.
 
 ![Chrome DevTools Sources](assets/chrome-devtools-sources.png)
+
+## Tips
+
+- Saving CSS works this way, but not HTML.
+- It doesn't work for HTML because HTML is resolved to a DOM that doesn't necessarily directly map to files.
+- You can add `Sources` to the `Console` that can be quickly accessed with `⎋` by hitting `⇧⌘P` and choosing `Show quick source`.
+- There's also a fuzzy file opener with `⌘P`.
