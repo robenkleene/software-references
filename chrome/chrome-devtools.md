@@ -5,6 +5,7 @@
 - `⌘⌥C`: Inspect element
 - `⎋`: Toggle drawer
 - `⌘⇧D`: Switch docking position
+- `⌘⇧M`: Toggle responsive mode
 
 ## Notes
 
