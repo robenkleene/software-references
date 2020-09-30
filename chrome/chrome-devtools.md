@@ -2,11 +2,12 @@
 
 - `⌘]` / `⌘[`: Next / previous panel
 - `⌘⌥J`: Toggle console
-- `⌘⌥C`: Inspect element
+- `⌘⌥C`: Inspect element (this can be used to bring focus back to Elements in the DevTools)
 - `⎋`: Toggle drawer
 - `⌘⇧D`: Switch docking position
 - `⌘⇧M`: Toggle responsive mode
 - `^backtick`: Focus drawer (can be used even when web page content has focus)
+- `⇧⌘P`: Bring up a fuzzy search panel to jump to various DevTools (this can be used to bring focus back to the DevTools)
 
 ## Tips
 
