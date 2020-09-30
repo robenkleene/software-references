@@ -6,6 +6,7 @@
 - `⎋`: Toggle drawer
 - `⌘⇧D`: Switch docking position
 - `⌘⇧M`: Toggle responsive mode
+- `^backtick`: Focus drawer (can be used even when web page content has focus)
 
 ## Tips
 
