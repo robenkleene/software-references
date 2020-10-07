@@ -9,6 +9,10 @@
 - `^backtick`: Focus drawer (can be used even when web page content has focus)
 - `⇧⌘P`: Bring up a fuzzy search panel to jump to various DevTools (this can be used to bring focus back to the DevTools)
 
+## CSS
+
+- When a numerical CSS value is selected in the `Styles` tab, you can increment and decrement it by scrolling (two-finger dragging) up and down.
+
 ## Tips
 
 - Right-click and element and select "Copy styles" to copy all of the CSS styles applied to an element.
