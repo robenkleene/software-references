@@ -4,6 +4,12 @@
 - `A`: Add card
 - `B`: Browse
 
+## Study
+
+- `1`: Again
+- `2`: Good
+- `3`: Easy
+
 ## Browse
 
 - `⇧⌘M`: Change note type
