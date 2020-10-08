@@ -1,5 +1,6 @@
 # Anki
 
+- `/`: Study deck
 - `A`: Add card
 - `B`: Browse
 
