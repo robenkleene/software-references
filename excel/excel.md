@@ -107,6 +107,7 @@ R1C1 is Excel's "native" way of referencing cells. It can be helpful to switch t
 
 ## Tips
 
+- Excel in OneDrive is superior to just using iCloud Drive, OneDrive allows live-collaborative editing, if you have a file open and edit it on another device, files hosted in OneDrive will show those edits live.
 - To resize all columns to fit, first click the special cell in the upper left where the row and column indexes meet, this should highlight the entire spreadsheet. While the whole spreadsheet is highlighted, clicking between columns as you would you normally resize a single column, will resize all columns.
 - Select "Format > Column > AutoFit Selection" to auto-fit all rows
 - Use "Paste" -> "Paste Values" to paste the results of a formula, rather than the formula itself.
