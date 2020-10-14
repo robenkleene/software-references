@@ -7,7 +7,6 @@
 
 - "File" > "Delete Generated Project Files"
 
-## Export
+## Notes
 
-- `File > Share > Master File (default)...`
-For YouTube, Choose "Format: Computer" and "H.264 Better Quality".
+- Final Cut Pro projects cannot be opened from iCloud Drive, so move them to `~/Movies` while working on them.
