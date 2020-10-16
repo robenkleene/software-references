@@ -8,6 +8,10 @@
 
 - Ribbon `Developer > Macros`, click the `-` button.
 
+## Keyboard Shortcuts
+
+All keyboard shortcuts must be `⌥⌘` and a letter key.
+
 ## Storing
 
 - **This Workbook**: The macro can be used if this workbook is open.
