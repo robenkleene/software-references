@@ -29,7 +29,7 @@
 - `⌃A`: Select all in the formula bar
 - `↩`: Stop editing and go the cell below
 - `⇥`: Stop editing and go next cell
-- `⌃↩`: Stop editing and stay in current cell
+- `⌃↩` or `⌘↩`: Stop editing and stay in current cell
 - `⌥↩`: Enter multiple lines of text
 
 ## Selection
