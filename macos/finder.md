@@ -1,5 +1,19 @@
 # Finder
 
-- The Finder can only show the image dimensions for directories that are indexed by Spotlight. (Adobe Bridge is a good substitute.)
 - `⌥⌘C`: Copy path
+
+## Notes
+
+- The Finder can only show the image dimensions for directories that are indexed by Spotlight. (Adobe Bridge is a good substitute.)
 - To move a file, just drag to the filename or icon, you can't drag to the row if you're not also over the filename or icon.
+
+## Spring-Loaded Folders
+
+The problem with spring-loaded folders is that if the delay is too short, it conflicts with dragging a file onto an app icon in the dock to open it, and if it's too long it is too slow to use.
+
+## Save Dialog Windows
+
+1. Open a Finder window at the destination location.
+2. Use the keyboard shortcut `⌥⌘C` to copy the path.
+3. Go to the save dialog.
+3. Use the keyboard shortcut `⇧⌘G` to enter the path.
