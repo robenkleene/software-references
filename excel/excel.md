@@ -6,6 +6,7 @@
 - `⇧␣`: Select row
 - `⌃␣`: Select column
 - `⌘A`: Select table
+- `⇧⌫`: Clear selection
 - `⇧⌃+`: Insert row (first select the row to avoid the Insert Cells dialog)
 - `⇧⌃+`: Insert column (same shortcut as above?)
 - `⌘⌥v v ↩`: Paste values
