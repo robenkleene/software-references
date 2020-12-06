@@ -4,6 +4,10 @@
 - `A`: Add card
 - `B`: Browse
 
+## Add
+
+- `⌘↩`: Add current card
+
 ## Study
 
 - `1`: Again
