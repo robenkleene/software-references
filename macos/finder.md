@@ -7,6 +7,10 @@
 - The Finder can only show the image dimensions for directories that are indexed by Spotlight. (Adobe Bridge is a good substitute.)
 - To move a file, just drag to the filename or icon, you can't drag to the row if you're not also over the filename or icon.
 
+## Batch Renaming
+
+Just select `File > Rename X Items...` with multiple items selected.
+
 ## Spring-Loaded Folders
 
 The problem with spring-loaded folders is that if the delay is too short, it conflicts with dragging a file onto an app icon in the dock to open it, and if it's too long it is too slow to use.
