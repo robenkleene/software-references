@@ -17,6 +17,7 @@
 ## Browse
 
 - `⇧⌘M`: Change note type
+- Right-click the heading to add columns (e.g., "Created")
 
 ## Reverse
 
