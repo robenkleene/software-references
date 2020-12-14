@@ -3,6 +3,7 @@
 - `/`: Study deck
 - `A`: Add card
 - `B`: Browse
+- `⌘Z`: Go back to previous card
 
 ## Add
 
