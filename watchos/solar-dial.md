@@ -25,4 +25,6 @@ The full sequence during sunset is:
 - **Nautical Twilight**: Begins when civil twilight ends. Nautical twilight defines when it's dark enough to start to see stars for navigation, while it's also light enough for the horizon to still be visible. Nautical twilight ends when the Sun's geometric center is 12 degrees below the horizon.
 - **Astronomical Twilight**: Begins when the sun's geometric center is 12 degrees below the horizon and ends when it reaches 18 degrees below the horizon.
 
-The top dot is Solar Noon, when the sun is at its highest point.
+- The four dots for sunset represent the inverse of the same three periods.
+- The top dot is Solar Noon, when the sun is at its highest point.
+- The bottom dot is Solar Midnight.
