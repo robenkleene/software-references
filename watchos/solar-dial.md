@@ -21,4 +21,4 @@ The full sequence during sunset is:
 7. Astronomical Dusk
 8. Night proper
 
-- **Civil Twilight**: Begins at Sunset and lasts until the geometric center of the Sun is 6 degrees below the horizon. It's intended to define how late work can be done without resorting to artificial light.
+- **Civil Twilight**: Begins at Sunset and lasts until the geometric center of the Sun is 6 degrees below the horizon. It's intended to define how late work can be done without resorting to artificial light. It's also sometimes used to determine whether a crime has been committed at night or not.
