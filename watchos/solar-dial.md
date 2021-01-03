@@ -24,3 +24,5 @@ The full sequence during sunset is:
 - **Civil Twilight**: Begins at sunset and lasts until the geometric center of the sun is 6 degrees below the horizon. It's intended to define how late work can be done without resorting to artificial light. It's also sometimes used to determine whether a crime has been committed at night or not.
 - **Nautical Twilight**: Begins when civil twilight ends. Nautical twilight defines when it's dark enough to start to see stars for navigation, while it's also light enough for the horizon to still be visible. Nautical twilight ends when the Sun's geometric center is 12 degrees below the horizon.
 - **Astronomical Twilight**: Begins when the sun's geometric center is 12 degrees below the horizon and ends when it reaches 18 degrees below the horizon.
+
+The top dot is Solar Noon, when the sun is at its highest point.
