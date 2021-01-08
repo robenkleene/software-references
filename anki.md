@@ -13,8 +13,9 @@
 ## Study
 
 - `1`: Again
-- `2`: Good
-- `3`: Easy
+- `2`: Hard
+- `3`: Good
+- `4`: Easy
 
 ## Browse
 
