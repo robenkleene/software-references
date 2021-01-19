@@ -17,6 +17,14 @@
 - `3`: Good
 - `4`: Easy
 
+## Numbers
+
+The three numbers are:
+
+1. New
+2. Learning
+3. Review
+
 ## Browse
 
 - `⇧⌘M`: Change note type
