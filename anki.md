@@ -30,7 +30,12 @@ The three numbers are:
 - `⇧⌘M`: Change note type
 - Right-click the heading to add columns (e.g., "Created")
 - Cards with a yellow background are suspended, hit `⌘J` to toggle.
+
 ## Reverse
 
 - To add reverse cards (back to front): in `Browse` (`B`), select a card, then click `Cards...`. Choose `Options > Add Card Type...`. This will reverse *all cards*.
 - To only reverse an individual card: In `Browse`, select `Notes > Change Card Type...` and choose `Basic (and reversed card)`.
+
+## Tips
+
+- The technique of automatically handling filling-in-the-blanks is called "cloze deletions"
