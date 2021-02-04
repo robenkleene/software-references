@@ -25,4 +25,4 @@ To enable key repeat (and disable press and hold for accents):
 
     defaults write -g ApplePressAndHoldEnabled -bool false
 
-Then restart.
+Note that quitting and restarting apps is required after making this change.
