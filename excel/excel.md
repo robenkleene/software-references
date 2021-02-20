@@ -59,7 +59,11 @@ To swap the orientation of rows and columns:
 
 ### Re-Ordering Columns in a Table
 
-Note that this method will only work for tables. It's unclear how to move a column without replacing the destination if the data isn't already a table.
+- If the data is not in a table, select it with `^␣` and hold `⇧`
+
+#### Tables
+
+Note that this method will only work for tables.
 
 1. First select the column with `^␣`. There are three possible selection states for a column, which determines what happens when the column is moved:
 
