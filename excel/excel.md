@@ -14,6 +14,7 @@
 - `⌃F2`: Focus menubar
 - `⌘⌥R`: Toggle ribbon
 - `F6`: Focus ribbon (this is practically useless)
+- `⇧⌘R`: Sort
 
 ## Navigation
 
