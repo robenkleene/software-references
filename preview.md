@@ -4,6 +4,7 @@
 - `⌃⌘r`: Make rectangle
 - `⌃⌘o`: Make oval
 - `⌃⌘t`: Make text
+- `backtick`: Magnifying glass
 
 ## Clipboard
 
