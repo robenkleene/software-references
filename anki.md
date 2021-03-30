@@ -9,6 +9,7 @@
 ## Add
 
 - `⌘↩`: Add current card
+- The `Cards...` button can preview cards
 
 ## Study
 
