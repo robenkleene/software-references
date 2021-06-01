@@ -2,6 +2,7 @@
 
 ## Keyboard Shortcuts
 
+- `⌘1`: Format cells
 - `⇧⌘O`: Open recent
 - `⇧␣`: Select row
 - `⌃␣`: Select column
