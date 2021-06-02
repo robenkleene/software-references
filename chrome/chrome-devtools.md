@@ -20,3 +20,7 @@
 ## Notes
 
 - Source Maps are used by the DevTools to map a pre-processed file to a file on disk, e.g., a TypeScript file. Source Maps can be accessed in the `Sources` tab of the DevTools.
+
+## Troubleshooting
+
+To exit responsive design mode, use `⌘⇧M`.
