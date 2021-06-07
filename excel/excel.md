@@ -81,17 +81,6 @@ Note that this method will only work for tables.
    2. _A line appears between the destination columns with a cell range hover label_ (e.g., `C2:C10`) appearing, this means the column will be moved between columns where the line appears.
    3. _A selection box appears around the destination cells with a cell column hover label_ (e.g., `C:C`) appearing. This means the moved column will replace the column that is moved to.
 
-## Cell Styles
-
-Excel has some useful built-in styles under "Home" -> "Cell Styles".
-
-- Normal
-- Good
-- Bad
-- Neutral
-- Input: Something meant to be changed
-- Calculation: Something that is output
-
 ## Delimited Data
 
 To add comma- or tab-delimited data, paste it into one cell, then select "Data" -> "Text to Columns"
