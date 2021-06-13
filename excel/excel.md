@@ -89,12 +89,14 @@ To add comma- or tab-delimited data, paste it into one cell, then select "Data" 
 
 ## Fill Handle
 
-Use the fill handle (little box to the bottom right of a selection box), to fill a bunch of cells with a pattern.
+Use the `Fill Handle` (little box to the bottom right of a selection box), to fill a bunch of cells with a pattern.
+
+- To see more options, use `RMB` instead of `LMB` when dragging out the `Fill Handle`, the menu will show up when the mouse button is released.
 
 ### Supported Lists
 
 - Days of the week
-- Dates
+- Dates (there are options for this like weekdays, months, and years when using `RMB`)
 - Incremented or decremented numbers
 
 ## R1C1
