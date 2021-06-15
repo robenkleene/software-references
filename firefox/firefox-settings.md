@@ -1,9 +1,16 @@
 # Firefox Settings
 
-To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings.
+## Advanced
 
-- To open links in a new window instead of tab, under `about:config` set `browser.link.open_newwindow: 2`.
+At the `about:config` URL.
+
+- `browser.link.open_newwindow: 2`: Open links to in new window instead of tabs
 - `browser.altClickSave`: Allow download by `MMB` clicking
+- `accessibility.typeaheadfind`: Search as you type
+
+## Settings
+
+To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings.
 
 ## Google Earth View
 
