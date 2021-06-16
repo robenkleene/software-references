@@ -62,3 +62,18 @@ Use an `ID` to get the sum of rows in a different column:
 ## Examples
 
 - `=DATEDIF([@[2.0]], [@[3.0]], "D")`: Show duration in days
+
+## `VLOOKUP`
+
+    VLOOKUP (lookup_value, table_array, col_index_num, [range_lookup])
+
+- `lookup_value`: The value used as a key
+- `table_array`: Where to get the value from
+- `col_index_num`: Offset from the key to column with the value
+- `range_lookup`: Boolean for whether to use an exact match
+
+### Example
+
+    =VLOOKUP([@Date],Table6,2,FALSE)
+
+Use the date from this table `[@Date]` to get the value that is `2` columns from the key in `Table6`.
