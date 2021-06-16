@@ -72,8 +72,13 @@ Use an `ID` to get the sum of rows in a different column:
 - `col_index_num`: Offset from the key to column with the value
 - `range_lookup`: Boolean for whether to use an exact match
 
+### Tips
+
+- You can click between sheets to reference tables in other sheets
+
 ### Example
 
     =VLOOKUP([@Date],Table6,2,FALSE)
 
 Use the date from this table `[@Date]` to get the value that is `2` columns from the key in `Table6`.
+
