@@ -7,3 +7,9 @@
 Disable new window animations:
 
     defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool NO
+
+To enable key repeat (and disable press and hold for accents):
+
+    defaults write -g ApplePressAndHoldEnabled -bool false
+
+Note that quitting and restarting apps is required after making this change.
