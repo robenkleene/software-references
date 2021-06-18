@@ -82,3 +82,9 @@ Use an `ID` to get the sum of rows in a different column:
 
 Use the date from this table `[@Date]` to get the value that is `2` columns from the key in `Table6`.
 
+
+## `AGGREGATE`
+
+`AGGREGATE` is a quick way to perform a calculation while ignoring errors, e.g., this averages values from `VLOOKUP` ignoring `#N/A`.
+
+    =AGGREGATE(1, 6, VLOOKUP([@Date],OneStat,2,FALSE), VLOOKUP([@Date],TheCounter,2,FALSE))
