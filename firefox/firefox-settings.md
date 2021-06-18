@@ -7,6 +7,7 @@ At the `about:config` URL.
 - `browser.link.open_newwindow: 2`: Open links to in new window instead of tabs
 - `browser.altClickSave`: Allow download by `MMB` clicking
 - `accessibility.typeaheadfind`: Search as you type
+- `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab
 
 ## Settings
 
