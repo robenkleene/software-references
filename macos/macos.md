@@ -18,11 +18,3 @@
 ## Movement
 
 - `⌃⌥f` / `⌃⌥b`: Move forward and backward by character
-
-## Key Repeat
-
-To enable key repeat (and disable press and hold for accents):
-
-    defaults write -g ApplePressAndHoldEnabled -bool false
-
-Note that quitting and restarting apps is required after making this change.
