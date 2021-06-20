@@ -7,6 +7,14 @@
 - `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
 - `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
 
+## Text Editing
+
+When editing formula, the usual text editing shortcuts are not available:
+
+- `⌘←` / `⌘→`, `⌥←` / `⌥→`: Move by word
+- `HOME`: Beginning of forumla
+- `END`: End of forumla
+
 ### Tips
 
 - Double-click a value then select cells to replace that value.
