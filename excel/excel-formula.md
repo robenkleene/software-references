@@ -102,3 +102,5 @@ Use the date from this table `[@Date]` to get the value that is `2` columns from
 `AGGREGATE` is a quick way to perform a calculation while ignoring errors, e.g., this averages values from `VLOOKUP` ignoring `#N/A`.
 
     =AGGREGATE(1, 6, VLOOKUP([@Date],OneStat,2,FALSE), VLOOKUP([@Date],TheCounter,2,FALSE))
+
+Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30})` returns a `#VALUE!` error.
