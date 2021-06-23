@@ -29,6 +29,8 @@ In a table, columns are automatically named by their headers. To name a table, d
 
 Array syntax is `{10,20,30}`, e.g., cell references like `H6:J6` return this.
 
+(It appears `{10;20;30}` is also valid syntax.)
+
 ## Syntax
 
 - `<>`: Not equal
