@@ -21,6 +21,19 @@
 
 - Source Maps are used by the DevTools to map a pre-processed file to a file on disk, e.g., a TypeScript file. Source Maps can be accessed in the `Sources` tab of the DevTools.
 
+The problem is probably here:
+
+```
+for (var i = 0; i < testFilePaths.length; i++) {
+  var testFilePath = testFilePaths[i];
+  var spawnArgs = [testFilePath].concat(args);
+  var spawn = require('child_process').spawnSync;
+  spawn('mocha-phantomjs', spawnArgs, { stdio: 'inherit'});
+}
+```
+
+I don't think we have a `mocha-phantomjs` binary installed?
+
 ## Troubleshooting
 
 To exit responsive design mode, use `⌘⇧M`.
