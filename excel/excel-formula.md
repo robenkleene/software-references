@@ -3,7 +3,7 @@
 ## Shortcuts
 
 - Use `⌘T` when editing a formula to switch between relative
-- `F9`: Evaluate and replace contents of a selected part of a formula
+- `F9`: Replace cell references with values (e.g., replace `H6:J6` with `{10,20,30}`)
 - `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
 - `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
 
@@ -24,6 +24,10 @@ When editing formula, the usual text editing shortcuts are not available:
 ## Names
 
 In a table, columns are automatically named by their headers. To name a table, do so under "Table" -> "Table Name:".
+
+## Arrays
+
+Array syntax is `{10,20,30}`, e.g., cell references like `H6:J6` return this.
 
 ## Syntax
 
