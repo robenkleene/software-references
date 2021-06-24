@@ -6,6 +6,7 @@
 - `F9`: Replace cell references with values (e.g., replace `H6:J6` with `{10,20,30}`)
 - `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
 - `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
+- You can enlarge the formula area just by dragging its size from the bottom
 
 ## Text Editing
 
