@@ -100,8 +100,8 @@ Use the date from this table `[@Date]` to get the value that is `2` columns from
 
 ## `AGGREGATE`
 
-`AGGREGATE` is a quick way to perform a calculation while ignoring errors, e.g., this averages values from `VLOOKUP` ignoring `#N/A`.
+`AGGREGATE` is a quick way to perform a calculation while ignoring errors:
 
-    
+    =AGGREGATE(1,6,'Internet Explorer'!B6:F6)
 
-Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30})` returns a `#VALUE!` error, as does `=AGGREGATE(1, 6, VLOOKUP([@Date],OneStat,2,FALSE), VLOOKUP([@Date],TheCounter,2,FALSE))`. The only work around for this is to create helper tables.
+Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30})` returns a `#VALUE!` error, as does `=AGGREGATE(1, 6, VLOOKUP([@Date],OneStat,2,FALSE), VLOOKUP([@Date],TheCounter,2,FALSE))`. The only work around for this is to create an intermediary table that includes all the values in their own columns (e.g., one column for each `VLOOKUP`). References to these cells can then be used by `AGGREGATE`.
