@@ -1,7 +1,7 @@
 # Firefox Dev Tools
 
 - `⌘]` / `⌘[`: Next / previous panel
-- `⌘⌥I`: Show Dev Tools
+- `⌘⌥I`: Toggle Dev Tools
 - `⌘⌥K`: Show Console
 - `⌘⇧J`: Show Browser Console
 
