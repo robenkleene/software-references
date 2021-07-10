@@ -61,7 +61,7 @@ To swap the orientation of rows and columns:
 
 ### Re-Ordering Columns in a Table
 
-- If the data is not in a table, select the column with `^␣` and hold `⇧` while dragging the edge of the column (the cursor should change to a hand icon).
+- If the data is not in a table, select the column with `^␣` and hold `⇧` while dragging the edge of the column (the cursor should change to a hand icon). Don't release shift until you're finished dragging.
 
 #### Tables
 
