@@ -29,6 +29,10 @@ Under "Design" you can:
 - Change the layout with "Quick Layout"
 - Add axes under "Add Chart Element"
 
+## Ignoring Data
+
+- `#N/A` is ignored by graphs. You can use the `NA()` function, that returns `#N/A` to selectively ignore data.
+
 ## Tips
 
 - There's no way to swap the X and Y axes automatically, there is a "Switch Row/Column" button under "Chart Design", but that does something different. To swap the axes, cut and paste between the two "Y values" and "Horizontal (Category) axis labels".
