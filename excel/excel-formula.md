@@ -38,6 +38,7 @@ Array syntax is `{10,20,30}`, e.g., cell references like `H6:J6` return this.
 - `$`: Is a locked reference, e.g., when the formula is cut & pasted, those cells will not change `=FORECAST.LINEAR([@Year],F2:F6,$A$2:$A$6)`(absolute reference as opposed to relative)
 - `&`: Concatenates
 - `'`: Start the value of a cell with an apostrophe to make it plain text (e.g., to enter a number that starts with leading zeros)
+- `@`: Means in this row only, e.g., only use cells in this row
 
 ## Errors
 

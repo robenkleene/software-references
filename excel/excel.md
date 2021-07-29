@@ -16,6 +16,7 @@
 - `⌘⌥R`: Toggle ribbon
 - `F6`: Focus ribbon (this is practically useless)
 - `⇧⌘R`: Sort
+- `^↩`: Enter the same value in multiple cells (select the cells, enter the value, then `^↩`)
 
 ## Navigation
 
