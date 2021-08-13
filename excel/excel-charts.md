@@ -3,22 +3,22 @@
 ## Adding a Chart
 
 1. Select the data
-2. Go to "Insert" in the ribbon
+2. Go to `Insert` in the ribbon
 3. Click the type of chart you'd like to add
 
 ## Axes
 
 ### Axis Date
 
-To change the axis, right-click the chart and select "Select Data...", then delete the existing entry in "Horizontal (Category) axis labels" and highlight the cells in the spreadsheet.
+To change the axis, right-click the chart and select `Select Data...`, then delete the existing entry in `Horizontal (Category) axis labels` and highlight the cells in the spreadsheet.
 
 ### Axis Formatting
 
-Right-click the axis and select "Format Axis..." (or click the axis, and select "Axis Options" in the sidebar), this has options like setting the minimum, maximum, and increment. As well as for type formatting like dates.
+Right-click the axis and select `Format Axis...` (or click the axis, and select "Axis Options" in the sidebar), this has options like setting the minimum, maximum, and increment. As well as for type formatting like dates.
 
 ## Vector
 
-- Charts can be copied and pasted to Photoshop as Vector Smart Objects that can be resized.
+- Charts can be copied and pasted to Photoshop (for some reason they don't work as well in Illustrator) as Vector Smart Objects that can be resized.
 
 ## Design
 
@@ -36,7 +36,7 @@ Select the chart then choose `Chart Design` in the ribbon to:
 
 ## Tips
 
-- There's no way to swap the X and Y axes automatically, there is a "Switch Row/Column" button under "Chart Design", but that does something different. To swap the axes, cut and paste between the two "Y values" and "Horizontal (Category) axis labels".
+- There's no way to swap the X and Y axes automatically, there is a `Switch Row/Column` button under `Chart Design`, but that does something different. To swap the axes, cut and paste between the two "Y values" and "Horizontal (Category) axis labels".
 
 ## Customizing a Chart
 
