@@ -22,12 +22,13 @@ Right-click the axis and select "Format Axis..." (or click the axis, and select 
 
 ## Design
 
-Under "Design" you can:
+Select the chart then choose `Chart Design` in the ribbon to:
 
-- Select a theme
-- Change the colors under "Change Colors"
-- Change the layout with "Quick Layout"
-- Add axes under "Add Chart Element"
+- Try different themes
+- `Change Colors`
+- Choose a `Quick Layout`
+- `Add Chart Element`, like an axis
+- Choosing one of the templates allows you to show the number for each point in a line chart
 
 ## Ignoring Data
 
