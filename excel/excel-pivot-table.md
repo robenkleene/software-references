@@ -9,7 +9,7 @@
 
 - To **move** existing fields, drag the fields between "Filters", "Columns", "Rows", and "Values"
 - To **delete existing fields**, drag the fields off of the Pivot Table sidebar
-- Hide "Grand Totals": "Design > Grand Totals > Hide for Rows and Columns"
+- Hide `Grand Total` row: `Design > Grand Totals > Off for Rows and Columns`
 - You can change the formatting for cells  (`⌘1`) just like you would for regular cells (e.g., to display dates).
 
 ## Summarize
