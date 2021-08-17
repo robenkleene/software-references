@@ -3,6 +3,10 @@
 - `=` / `-`: Zoom in and out
 - `T`: Split
 
+## Export Dimensions
+
+To export to a specific size, use the crop tool in the upper right and resize while holding shift to not constrain proportions.
+
 ## Aspect Ratio
 
 ## Tips
