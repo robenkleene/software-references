@@ -7,6 +7,7 @@
 - `F2`: Switch between edit and formula mode when editing a cell, in enter mode, you can select cells with the keyboard. (Whether the mode is currently "Enter" or "Edit" is shown in the lower left of the window)
 - `F4`: Toggle between absolute and relative references (e.g., insert `$`). Hitting this repeatedly rotates between absolute, absolute row, absolute column, and relative.
 - You can enlarge the formula area just by dragging its size from the bottom
+- When editing a formula and selecting cells with the mouse and keyboard, use `^U` to bring the focus back to the formula bar after selecting cells
 
 ## Text Editing
 
