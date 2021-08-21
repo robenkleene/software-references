@@ -116,4 +116,4 @@ Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30}
 
     AVERAGEIFS(average_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
 
-- To exclude `#N/A` from `AVERAGEIFS`, add it as `criteria_range, "<>#N/A"`, where `criteria_range` matches `average_range`
+- To exclude `#N/A` from `AVERAGEIFS`, add it as `criteria_range, "<>#N/A"`, where `criteria_range` matches `average_range` (e.g., you're adding a criteria that it not be equal to `#N/A`).
