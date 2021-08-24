@@ -37,7 +37,7 @@ Array syntax is `{10,20,30}`, e.g., cell references like `H6:J6` return this.
 
 - `<>`: Not equal
 - `$`: Is a locked reference, e.g., when the formula is cut & pasted, those cells will not change `=FORECAST.LINEAR([@Year],F2:F6,$A$2:$A$6)`(absolute reference as opposed to relative)
-- `&`: Concatenates
+- `&`: Concatenates values into strings
 - `'`: Start the value of a cell with an apostrophe to make it plain text (e.g., to enter a number that starts with leading zeros)
 - `@`: Means in this row only, e.g., only use cells in this row
 
@@ -99,6 +99,10 @@ Use an `ID` to get the sum of rows in a different column:
 
 Use the date from this table `[@Date]` to get the value that is `2` columns from the key in `Table6`.
 
+## `DATE`
+
+    DATE(2000,1,1)
+    DATE(year,month,day)
 
 ## `AGGREGATE`
 
@@ -117,3 +121,14 @@ Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30}
     AVERAGEIFS(average_range, criteria_range1, criteria1, [criteria_range2, criteria2], ...)
 
 - To exclude `#N/A` from `AVERAGEIFS`, add it as `criteria_range, "<>#N/A"`, where `criteria_range` matches `average_range` (e.g., you're adding a criteria that it not be equal to `#N/A`).
+
+### Monthly to Annual
+
+    =AVERAGEIFS(Monthly[Netscape],Monthly[Date],">="&DATE([@Year],1,1),Monthly[Netscape],"<"&DATE([@Year] + 1,1,1),Monthly[Netscape],"<>#N/A")
+                ^ Column to average
+                                  ^ Column with the date
+                                                ^ Get the year for the current row in the annual table, and convert it to an expression ">=1/1/2000"
+                                                                       ^ Column with the date again
+                                                                                         ^ Another expression, this time "<1/1/2000"
+                                                                                                                   ^ The column to average again
+                                                                                                                                     ^ Ignore `#N/A`
