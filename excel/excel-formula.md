@@ -101,6 +101,8 @@ Use the date from this table `[@Date]` to get the value that is `2` columns from
 
 ## `DATE`
 
+Return a date.
+
     DATE(2000,1,1)
     DATE(year,month,day)
 
