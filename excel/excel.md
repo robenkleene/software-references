@@ -17,7 +17,6 @@
 - `F6`: Focus ribbon (this is practically useless)
 - `⇧⌘R`: Sort
 - `^↩`: Enter the same value in multiple cells (select the cells, enter the value, then `^↩`)
-- `^H`: Find and replace (the UI doesn't indicate it at all, but this will do a find and replace in just the selection if there is one)
 - `⎋`: Deselect
 
 ## Navigation
@@ -37,6 +36,11 @@
 - `⇥`: Stop editing and go next cell
 - `⌃↩` or `⌘↩`: Stop editing and stay in current cell
 - `⌥↩`: Enter multiple lines of text
+
+## Find & Replace
+
+- `^H`: Find and replace (the UI doesn't indicate it at all, but this will do a find and replace in just the selection if there is one)
+    - E.g., select a column with a formula and use `^H` to replace text in that formula
 
 ## Selection
 
