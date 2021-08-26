@@ -126,7 +126,7 @@ Note oddly `AGGREGATE` does not support arrays, e.g., `=AGGREGATE(1,6,{10,20,30}
 
 ### Monthly to Annual
 
-    =AVERAGEIFS(Monthly[Netscape],Monthly[Date],">="&DATE([@Year],1,1),Monthly[Netscape],"<"&DATE([@Year] + 1,1,1),Monthly[Netscape],"<>#N/A")
+    =AVERAGEIFS(Monthly[Netscape],Monthly[Date],">="&DATE([@Year],1,1),Monthly[Date],"<"&DATE([@Year] + 1,1,1),Monthly[Netscape],"<>#N/A")
                 ^ Column to average
                                   ^ Column with the date
                                                 ^ Get the year for the current row in the annual table, and convert it to an expression ">=1/1/2000"
