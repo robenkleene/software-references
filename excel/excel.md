@@ -18,6 +18,7 @@
 - `⇧⌘R`: Sort
 - `^↩`: Enter the same value in multiple cells (select the cells, enter the value, then `^↩`)
 - `^H`: Find and replace (the UI doesn't indicate it at all, but this will do a find and replace in just the selection if there is one)
+- `⎋`: Deselect
 
 ## Navigation
 
