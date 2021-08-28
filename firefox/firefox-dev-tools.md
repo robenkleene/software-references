@@ -5,6 +5,11 @@
 - `⌘⌥K`: Show Console
 - `⌘⇧J`: Show Browser Console
 
+## Debugger
+
+- `⌘'`: Step over
+- `⌘\`: Resume
+
 ## Settings
 
 - To toggle dark mode on, click the three dots in the upper right, then `Settings > Themes: Dark`.
