@@ -32,7 +32,7 @@ Select the chart then choose `Chart Design` in the ribbon to:
 
 ## Ignoring Data
 
-- `#N/A` is ignored by graphs. You can use the `NA()` function, that returns `#N/A` to selectively ignore data.
+- `#N/A` are automatically ignored by charts (so you can use the `NA()` function, that returns `#N/A` to selectively ignore data)
 
 ## Tips
 
