@@ -28,6 +28,9 @@ Select the chart then choose `Chart Design` in the ribbon to:
 - `Change Colors`
 - Choose a `Quick Layout`
 - `Add Chart Element`, like an axis
+
+## Line Charts
+
 - When a line chart is selected, one of the chart styles shows the a value for each dot
 
 ## Axes
