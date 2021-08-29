@@ -28,7 +28,11 @@ Select the chart then choose `Chart Design` in the ribbon to:
 - `Change Colors`
 - Choose a `Quick Layout`
 - `Add Chart Element`, like an axis
-- Choosing one of the templates allows you to show the number for each point in a line chart
+- When a line chart is selected, one of the chart styles shows the a value for each dot
+
+## Axes
+
+- To set the axes range, select the axes and change the `Minimum` and `Maximum` under `Axes Options` in the sidebar
 
 ## Ignoring Data
 
