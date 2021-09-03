@@ -1,3 +1,4 @@
 # Screenshots
 
-To save to the clipboard, hold the `⌃` key while taking the screenshot.
+- While dragging out a rectangle with `⇧⌘4`, hole `␣` to reposition the upper left corner
+- To save to the clipboard, hold the `⌃` key while taking the screenshot
