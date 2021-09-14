@@ -11,7 +11,8 @@ At the `about:config` URL.
 
 ## Settings
 
-To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings.
+- To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings
+- Disable `Preferences > History > Remember searrch and form history` because it interferes with website's built-in autocomplete
 
 ## Google Earth View
 
