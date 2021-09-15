@@ -31,7 +31,7 @@ Select the chart then choose `Chart Design` in the ribbon to:
 
 ## Line Charts
 
-- When a line chart is selected, one of the chart styles shows the a value for each dot
+- When a line chart is selected, one of the chart styles shows the a value for each dot (usually this is `Style 7`)
 
 ## Axes
 
