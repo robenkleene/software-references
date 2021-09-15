@@ -50,4 +50,4 @@ Select the chart then choose `Chart Design` in the ribbon to:
 1. Right-click and choose `Select Data...`
 2. For `Chart data range`, select the entire table
 3. For `Name`, select one table header that will be used in the key
-4. For `Y values`, select the column to be used as the Y values, excluding the header
+4. For `Y values`, select the column to be used as the Y values, excluding the header (note you can only use a single column for the values)
