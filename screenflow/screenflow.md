@@ -30,6 +30,9 @@ The blue selection is called in and out points.
 - `I`: Make In Point
 - `O`: Make Out Point
 - `⌥Z`: Clear In & Out Points
+- `J`: Rewind
+- `K`: Pause
+- `L`: Forward
 
 ### Ripple Delete
 
