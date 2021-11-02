@@ -7,12 +7,12 @@ At the `about:config` URL.
 - `browser.link.open_newwindow: 2`: Open links to in new window instead of tabs
 - `browser.altClickSave`: Allow download by `MMB` clicking
 - `accessibility.typeaheadfind`: Search as you type
-- `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab
+- `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab *Turning this off for now, it creates more tab management because if you want to quickly make a new search on the same topic, the tab for that search should be appended to the end, not inserted in the middle*
 
 ## Settings
 
 - To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings
-- Disable `Preferences > History > Remember searrch and form history` because it interferes with website's built-in autocomplete
+- Disable `Preferences > History > Remember search and form history` because it interferes with website's built-in autocomplete
 
 ## Enhanced Tracking Protection
 
