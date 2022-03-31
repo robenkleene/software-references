@@ -13,6 +13,7 @@ At the `about:config` URL.
 
 - To get rid of the search icons that show up at the bottom of the address bar, untick all the search engines under `Search Shortcuts` in settings
 - Disable `Preferences > History > Remember search and form history` because it interferes with website's built-in autocomplete
+- Turn off `Address Bar -- Firefox Suggest > Open tabs`
 
 ## Enhanced Tracking Protection
 
