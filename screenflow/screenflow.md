@@ -33,6 +33,7 @@ The blue selection is called in and out points.
 - `J`: Rewind
 - `K`: Pause
 - `L`: Forward
+- `←` / `→`: Back / forward one frame
 
 ### Ripple Delete
 
