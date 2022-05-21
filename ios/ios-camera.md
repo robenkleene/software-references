@@ -17,3 +17,4 @@
 ## Portrait Mode
 
 - Tap the `f` in the upper right for more settings
+- A yellow box appears around the subject in portrait mode
