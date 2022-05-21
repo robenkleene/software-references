@@ -1,5 +1,9 @@
 # iOS Photos
 
+- You can adjust the amount of blur after taking a portrait mode photo (or before) look for the F-stop button
+
+## Troubleshooting
+
 - If syncing seems stuck, it has probably been pause to conserve battery life, you can resume it from the bottom of the main "Photos" tab.
 
 ## Messages
