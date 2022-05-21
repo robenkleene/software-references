@@ -1,6 +1,7 @@
 # iOS Camera
 
-- Swipe up on the photo, video, etc... slider for a hidden menu
+- Swipe up on the capture type slider (i.e., photo, video, etc...) for a hidden menu
+- 
 
 ## Night Mode
 
