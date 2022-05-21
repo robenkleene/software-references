@@ -18,3 +18,7 @@
 
 - Tap the `f` in the upper right for more settings
 - A yellow box appears around the subject in portrait mode
+
+## Burst Mode
+
+- Left swipe on capture button to take a bunch of photos, i.e., burst mode
