@@ -8,6 +8,10 @@
 
 - To export a PDF, from the print menu, pinch to expand a thumbnail preview, from the zoomed in thumbnail preview, there's a share icon
 
+## Lock Screen
+
+- Swipe left on the lock screen to enter the camera
+
 ## Springboard
 
 ### Multi-Tasking
