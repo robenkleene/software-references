@@ -23,3 +23,4 @@
 ## Burst Mode
 
 - Left swipe on capture button to take a bunch of photos, i.e., burst mode
+- Burst mode photos have `Select...` in the Photos toolbar for selecting the best shot
