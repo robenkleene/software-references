@@ -1,7 +1,7 @@
 # iOS Camera
 
 - Swipe up on the capture type slider (i.e., photo, video, etc...) for a hidden menu
-- 
+- Press and hold to automatically capture video
 
 ## Night Mode
 
