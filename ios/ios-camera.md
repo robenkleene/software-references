@@ -10,6 +10,7 @@
 ## Live Photos
 
 - After taking a live photo, in Photos you can change the long exposure settings by swiping up on the photo and tapping the long exposure settings in the upper right
+- You can also choose the live photo frame when editing by tapping the live photos tool (near the crop tool)
 
 ## Zoom
 
