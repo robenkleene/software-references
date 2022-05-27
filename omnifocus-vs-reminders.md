@@ -8,3 +8,4 @@ Use OmniFocus for today list because:
 Use Reminders for specific timed reminders because:
 
 - Siri
+- Fantastical can be configured to only show notifications for Reminders with a time (e.g., everything except all-day reminders) which is what I usually want
