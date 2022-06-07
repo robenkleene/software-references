@@ -1,4 +1,4 @@
-# iA Writer
+# iA Writer iOS
 
 - `⇧⌘O`: Quick open
 
