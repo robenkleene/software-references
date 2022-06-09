@@ -2,7 +2,7 @@
 
 ## Pages Not Loading
 
-- Sometimes Safari won't load a web page and has a message `This webpage was reloaded because of a problem` then `a problem repeatedly occurred`. Disabling JavaScript should get the page to load.
+- Sometimes Safari won't load a web page and has a message `This webpage was reloaded because of a problem` then `a problem repeatedly occurred`. Disabling JavaScript should get the page to load, but to fix it you'll have to restart the computer.
 
 ## Bookmarks
 
