@@ -9,3 +9,7 @@
 ## Messages
 
 - To choose and album, e.g., `Favorites`, from the `Photos` `Messages` app, swipe up at the little tab to make the app larger, and choose the `Photos` tab.
+
+## OCR
+
+- Just use tap and hold select and copy the text!
