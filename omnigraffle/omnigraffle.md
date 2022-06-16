@@ -1,5 +1,9 @@
 # OmniGraffle
 
+## Tools
+
+- `C`: Line (connection) tool
+
 ## Text
 
 - The bullet list options are with the rulers (`View > Rulers` or `⌘R`).
