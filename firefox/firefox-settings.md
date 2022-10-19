@@ -8,6 +8,7 @@ At the `about:config` URL.
 - `browser.altClickSave`: Allow download by `MMB` clicking
 - `accessibility.typeaheadfind`: Search as you type
 - `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab *Turning this off for now, it creates more tab management because if you want to quickly make a new search on the same topic, the tab for that search should be appended to the end, not inserted in the middle*
+- `accessibility.typeaheadfind.manual`: Set to false to disable the `/` shortcut that interferes with website shortcuts to focus search bars
 
 ## Settings
 
