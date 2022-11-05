@@ -2,6 +2,10 @@
 
 - To bring up the dock on iOS, bring the mouse down fast to the bottom of the screen
 
+## Copy & Paste
+
+- Disable the `Allow Paste` prompt with `Settings > <app-name> > Paste from other apps > Allow`
+
 ## Multitasking
 
 - Drag an icon from the dock to do split view
