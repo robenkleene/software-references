@@ -1,5 +1,11 @@
 # macOS Settings
 
+## Accented Characters
+
+    Settings > Keyboard > Input Source > Other > Unicode Hex Input
+
+## Notes
+
 - To turn off screenshot thumbnails, use `⇧⌘5`, then toggle off `Options > Show Floating Thumbnail`
 
 ## Defaults
