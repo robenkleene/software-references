@@ -7,7 +7,7 @@
 ## Lines
 
 - Use the `Line Tool` (`C`) to draw connections
-- Arrow heads can be adding in the `Object -> ` 
+- Arrow heads can be adding in the `Object Inspector -> Line` section
 
 ## Drawing
 
