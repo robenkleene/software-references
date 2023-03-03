@@ -1,14 +1,19 @@
-# OmniGraffle Mouseless Editing
+# OmniGraffle Efficient Editing
 
 - `⌘←` / `⌘↑` / `⌘↓` / `⌘→`: Select shape left / up / down / right
 - `^⌘←` / `^⌘↑` / `^⌘↓` / `^⌘→`: Create connected shape left / up / down / right
 - `⌥⌘←` / `⌥⌘↑` / `⌥⌘↓` / `⌥⌘→`: Create shape left / up / down / right
 
+## Lines
+
+- Use the `Line Tool` (`C`) to draw connections
+- Arrow heads can be adding in the `Object -> ` 
+
 ## Drawing
 
-- Use `V` (`Selection Tool`) to drag objects
+- Use `Selection Tool` (`V`) to drag objects
 
 ## Shapes
 
-- Use `S` (`Shape Tool`) to draw shapes
+- Use `Shape Tool` (`S`) to draw shapes
 - Any shape can be drawn (e.g., the `Stencil` shapes) using the `Shapes` inspector (`⌘1` to show the `Object Inspector`, which contains the `Shapes` inspector).
