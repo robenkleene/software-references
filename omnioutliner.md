@@ -1,6 +1,8 @@
 # OmniOutliner Commands
 
-* `⇧↩`: Create a new row above
+- `⇧↩`: Create a new row above
+- `⎋`: Start editing current cell
+- `⌘↩`: End editing current cell
 
 ## Themes
 
