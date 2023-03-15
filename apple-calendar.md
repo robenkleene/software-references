@@ -1,3 +1,3 @@
 # Apple Calendar
 
-- To accept all invitations, `⌥click` the 
+- To accept all invitations, `⌥click` the `OK` button

@@ -1,5 +1,9 @@
 # Safari
 
+## Tabs
+
+- To open a URL in an existing tab, rather than new window, just open a new tab and have it on the `Empty` page (the `Start` page doesn't work).
+
 ## Debug Tools
 
 - To view resources by type, e.g., see all style sheets, go to the sources tab, then in the lower right, to the right of the filter, there's a dropdown menu to just choose a specific resource type.
