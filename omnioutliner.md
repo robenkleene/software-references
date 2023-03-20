@@ -6,6 +6,10 @@ The way to think about column editing in OmniOutliner, is that it's not cell bas
 - `⎋`: Start editing current cell
 - `⌘↩`: End editing current cell
 
+## Settings
+
+- Just turn on `tab` to move between cells and use `⌘[` / `⌘]` to indent or outdent the current row
+
 ## Themes
 
 To update a theme: select Format -> Apply Template Theme.
