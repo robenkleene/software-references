@@ -2,7 +2,7 @@
 
 The grid settings are under "Canvas" in the right sidebar, some good settings are:
 
-- `⌘/`: Toggle grid lines
+- `⌘\`: Toggle grid lines
 
 ## Example Settings
 
