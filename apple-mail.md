@@ -7,3 +7,5 @@
 ## Exchange
 
 If an email that was moved is stuck in the `Inbox`, use `Mailbox > Rebuild` then try moving it again.
+
+If that doesn't work, you'll have to delete and re-add the account.
