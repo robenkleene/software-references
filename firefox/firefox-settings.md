@@ -4,10 +4,11 @@
 
 At the `about:config` URL.
 
+- `browser.tabs.insertAfterCurrent`: The new tab shortcut opens in the current tab instead of at the far right
+    - There's a related option, `browser.tabs.insertRelatedAfterCurrent`, but that one only affects `⌘click` links
 - `browser.link.open_newwindow: 2`: Open links to in new window instead of tabs
 - `browser.altClickSave`: Allow download by `MMB` clicking
-- `accessibility.typeaheadfind`: Search as you type
-- `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab *Turning this off for now, it creates more tab management because if you want to quickly make a new search on the same topic, the tab for that search should be appended to the end, not inserted in the middle*
+- `accessibility.typeaheadfind`: Search as you type - `browser.tabs.insertAfterCurrent`: Insert new tab to the right of current tab *Turning this off for now, it creates more tab management because if you want to quickly make a new search on the same topic, the tab for that search should be appended to the end, not inserted in the middle*
 - `accessibility.typeaheadfind.manual`: Set to false to disable the `/` shortcut that interferes with website shortcuts to focus search bars
 
 ## Settings
