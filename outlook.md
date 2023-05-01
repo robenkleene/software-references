@@ -8,7 +8,7 @@
 
 - `⌃E`: Archive
 - `⌘T`: Mark as read
-- `⌃1`: Flag
+- `⌃0`: Flag
 
 ## Calendar
 
