@@ -13,4 +13,6 @@
 
 - `⌘T`: Today
 - `⌥⌘←` / `⌥⌘→`: Previous / next week
-- `⌃⌘3`: Month
+- `⌃⌘1`: Day
+- `⌃⌘3`: Week
+- `⌃⌘4`: Month
