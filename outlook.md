@@ -2,7 +2,6 @@
 
 - `⌘1`: Mail
 - `⌘2`: Calendar
-- `⌘2`: Calendar
 
 ## Mail
 
@@ -14,3 +13,4 @@
 
 - `⌘T`: Today
 - `⌥⌘←` / `⌥⌘→`: Previous / next week
+- `⌃⌘3`: Month
