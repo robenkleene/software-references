@@ -16,3 +16,7 @@
 - `⌃⌘1`: Day
 - `⌃⌘3`: Week
 - `⌃⌘4`: Month
+
+## Troubleshooting
+
+- To fix stuck todos, `Tools > Accounts...`, then `...` menu on account to `Reset Account`
