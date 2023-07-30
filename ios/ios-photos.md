@@ -13,3 +13,8 @@
 ## OCR
 
 - Just use tap and hold select and copy the text!
+
+## Hidden
+
+- Tap the `...` more button and choose `Hide`
+- Hidden photos show up in the `Hidden` album, under `Albums > Utilities`
