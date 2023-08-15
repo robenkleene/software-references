@@ -1,5 +1,10 @@
 # Safari
 
+## Tab Group
+
+- `⌃⌘N` / `File > New Empty Tab Group`
+- `⌃⌘W` / `File > Delete Tab Group`
+
 ## Tabs
 
 - To open a URL in an existing tab, rather than new window, just open a new tab and have it on the `Empty` page (the `Start` page doesn't work).
