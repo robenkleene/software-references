@@ -1,5 +1,6 @@
-
 # watchOS
+
+- Open the timer app to get a timer countdown to stay visible
 
 ## Force Quit
 
