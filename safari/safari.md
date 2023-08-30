@@ -1,5 +1,7 @@
 # Safari
 
+- Use pinned tabs for commonly used web applications
+
 ## Tab Group
 
 - `⌃⌘N` / `File > New Empty Tab Group`
