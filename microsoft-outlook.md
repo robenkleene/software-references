@@ -20,3 +20,7 @@
 ## Troubleshooting
 
 - To fix stuck todos, `Tools > Accounts...`, then `...` menu on account to `Reset Account`
+
+## Workflow
+
+- For reading email, just read the message and then either archive or flag it, i.e., don't worry about managing read states.
