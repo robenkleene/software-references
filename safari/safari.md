@@ -2,12 +2,6 @@
 
 - Use pinned tabs for commonly used web applications
 
-## Tab Group
-
-- `⌃⌘N` / `File > New Empty Tab Group`
-- `⌃⌘W` / `File > Delete Tab Group`: (You can delete the tab group without prompting to confirm by first closing all the tabs)
-- `⇧⌘↓` / `⇧⌘↑`: Previous / next tab group
-
 ## Tabs
 
 - To open a URL in an existing tab, rather than new window, just open a new tab and have it on the `Empty` page (the `Start` page doesn't work).
