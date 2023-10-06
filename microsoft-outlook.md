@@ -8,6 +8,7 @@
 - `⌃E`: Archive
 - `⌘T`: Mark as read
 - `⌃0` / `⌃⌘'`: Flag / Unflag
+- `⌘↩`: Send email
 
 ## Calendar
 
