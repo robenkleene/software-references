@@ -4,7 +4,7 @@
 
 ## Search
 
-To search within a file, use find and replace using the search option in the keyboard bar. The `>>` icon goes to the first match.
+To search within a file, start a search and hit the icon in the far right above the toolbar that looks like a file with a magnifying glass over it. The `>>` icon goes to the first match.
 
 ## Tips
 
