@@ -7,8 +7,12 @@
 
 - `⌃E`: Archive
 - `⌘T`: Mark as read
-- `⌃0` / `⌃⌘'`: Flag / Unflag
+- `⌃1` / `⌃0`: Flag / Unflag
 - `⌘↩`: Send email
+
+## Filter
+
+- `⌥⌘O`: Show only flagged
 
 ## Calendar
 
