@@ -1,5 +1,7 @@
 # QuickTime
 
+- `⇧⌘L`: Loop
+
 ## Fastest Possible Screencast
 
 1. Open QuickTime
