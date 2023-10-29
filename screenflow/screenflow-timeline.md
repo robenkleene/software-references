@@ -1,7 +1,8 @@
 # Screenflow Timeline
 
+- `HOME` / `END`: Go to the start / end
 - `=` / `-`: Zoom in and out
-- `J`: Rewind
+- `J`: Rewind (press repeatedly to go faster)
+- `L`: Forward (press repeatedly to go faster)
 - `K`: Pause
-- `L`: Forward
 - `←` / `→`: Back / forward one frame
