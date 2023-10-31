@@ -27,4 +27,5 @@ To clear the blue selection, double-click in the playhead area.
 
 ## Cropping
 
-- Select the clip in the viewport, and hold `⌥` while dragging a resize handle. To preserve the aspect ratio, 
+- Select the clip in the viewport, and hold `⌥` while dragging a resize handle. To preserve the aspect ratio, hold `⌃⌥` while dragging.
+- On the `Video Properties` tab, there's also a `Cropping` section where slides can be used to crop each edge.
