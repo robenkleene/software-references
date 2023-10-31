@@ -24,3 +24,7 @@ To clear the blue selection, double-click in the playhead area.
 ## Playback Speed
 
 - Hold `⌥` and drag the end of a clip to change the playback speed (hold `⌘` to toggle off snapping when draggin)
+
+## Cropping
+
+- Select the clip in the viewport, and hold `⌥` while dragging a resize handle. To preserve the aspect ratio, 
