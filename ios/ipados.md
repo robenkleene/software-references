@@ -14,3 +14,9 @@
 ## Keyboard
 
 - To turn off the bar that appears when a keyboard is attached, turn off `General > Keyboards > Shortcuts`.
+
+## Control Center
+
+### Wi-Fi
+
+- To choose the Wi-Fi network from Control Center, push and hold the entire Wi-Fi "block" in `Control Center`, then push and hold the Wi-Fi icon
