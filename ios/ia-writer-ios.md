@@ -1,6 +1,7 @@
 # iA Writer iOS
 
 - `⇧⌘O`: Quick open
+- To indent and outdent, add `Indent` and `Outdent` to the action menu
 
 ## Search
 
