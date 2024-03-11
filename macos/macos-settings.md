@@ -1,5 +1,9 @@
 # macOS Settings
 
+## Keyboard Shortcuts
+
+- `⌃⌥␣` is bound by `Input Sources > Select next source in Input menu` by default, this binding should be disabled (Emacs uses this key to select the current s-expression for example)
+
 ## Dication
 
 - The default keyboard shortcut to show the enable dictation pop-up is `Press Control Key Twice`
