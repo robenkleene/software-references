@@ -3,6 +3,7 @@
 - `⌘J`: Jump to time
 - `←` / `→`: Backward / forward 5s
 - `⌥←` / `⌥→`: Backward / forward one frame
+- `⌘S`: Save single frame
 
 ## Fixing Open in IINA
 
