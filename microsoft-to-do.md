@@ -10,4 +10,4 @@
 
 ### macOS
 
-- Use `Exchange` account type and login, use `outlook.office365.com` as the internal and external URL. You'll initially get an error but be able to click a `Next` button to continue, but it should still work for syncing.
+- Use `Exchange` account type and login, use `outlook.office365.com` as the internal and external URL. You'll initially get an error but be able to click a `Next` button to continue, but it should still work for syncing. **Note:** This no longer works consistently.
