@@ -3,6 +3,10 @@
 - `⇧⌘R`: Refresh and clear cache
 - The macOS native share options are under `File > Share`
 
+## Share
+
+The share sheet is under `File > Share`
+
 ## History
 
 The best way to search history is to just start typing in the location bar, then use the up arrow to go to the bottom.
