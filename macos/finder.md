@@ -3,6 +3,10 @@
 - `⌥⌘C`: Copy path
 - `⌘C`: Copy a file, it can then be pasted with `⌘V` (there's not such thing as "cut" for files, probably because two cuts before pasting would delete the first cut file)
 
+## Services
+
+- To run Services on the current selected Finder folder, toggle on `View > Show Path Bar` (the `Path Bar` also includes a right-click option to open a Terminal window at a folder)
+
 ## Notes
 
 - The Finder can only show the image dimensions for directories that are indexed by Spotlight. (Adobe Bridge is a good substitute.)
