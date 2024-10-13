@@ -3,9 +3,10 @@
 - `⌥⌘C`: Copy path
 - `⌘C`: Copy a file, it can then be pasted with `⌘V` (there's not such thing as "cut" for files, probably because two cuts before pasting would delete the first cut file)
 
-## Services
+## Path Bar
 
 - To run Services on the current selected Finder folder, toggle on `View > Show Path Bar` (the `Path Bar` also includes a right-click option to open a Terminal window at a folder)
+- The `Path Bar` also provides a nice solution for opening the enclosing folder, right-click it in the path bar and choose `Open in New Window`
 
 ## Notes
 
