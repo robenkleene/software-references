@@ -1,10 +1,11 @@
 # iA Writer
 
-- `⌘↩` / `⌘-click`: Open link
 - `⌃⌘←` / `^⌘→`: Go backward / forward
+- `⌘↩` / `⌘-click`: Open link
 
 ## Format
 
+- `⌥⌘X`: Check checkbox
 - `⌘J`: Inline code
 - `⇧⌘J`: Code block
 
