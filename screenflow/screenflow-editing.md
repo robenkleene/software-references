@@ -17,6 +17,8 @@ The blue selection is called in and out points.
 
 ## Ripple Delete
 
+It's called "ripple" because the effect of the edit "ripples" to affect other clips.
+
 `Ripple Delete` deletes while moving content to the right to the left, to use it, hold shift and drag above your clips in the playhead's track. The section to be deleted will be colored blue. To delete the blue section, use `⌘⌫`.
 
 To clear the blue selection, double-click in the playhead area.
