@@ -2,6 +2,7 @@
 
 - `⌥↑` / `⌥↓`: Move to the top / bottom of a directory listing
 - `⌥⌘C`: Copy path to the selected file (or the open folder, if no file is selected), the path is already quoted for pasting into a terminal for example
+- `⇧⌘G`: Enter path
 - `⌘C`: Copy a file, it can then be pasted with `⌘V` (there's not such thing as "cut" for files, probably because two cuts before pasting would delete the first cut file)
 - `⇧⌘.`: Toggle show hidden files
 
