@@ -1,5 +1,6 @@
 # Google Chrome
 
+- `RMB` and choose `Close Other Tabs`
 - `⇧⌘R`: Refresh and clear cache
 - The macOS native share options are under `File > Share`
 
