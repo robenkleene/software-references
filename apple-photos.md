@@ -1,5 +1,9 @@
 # Apple Photos
 
+## Video
+
+- `⌥␣`: Play / pause
+
 ## Key Bindings
 
 - `C`: Crop
