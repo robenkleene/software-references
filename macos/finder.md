@@ -11,6 +11,7 @@
 
 - To run Services on the current selected Finder folder, toggle on `View > Show Path Bar` (the `Path Bar` also includes a right-click option to open a Terminal window at a folder)
 - The `Path Bar` also provides a nice solution for opening the enclosing folder, right-click it in the path bar and choose `Open in New Window`
+- `⌘LMB` on `Path Bar`: Open new Finder window at that location
 
 ## Notes
 
