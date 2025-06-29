@@ -4,4 +4,4 @@ Always install fonts via Font Book, in settings it can be set to install for the
 
 ## Troubleshooting
 
-Sometimes a restart is required to get a font to install.
+- `sudo pkill -f fontd` (or restarting) is often required to get newly installed fonts to be picked up
