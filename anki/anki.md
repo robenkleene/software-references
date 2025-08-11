@@ -29,7 +29,7 @@ The three numbers are:
 ## Browse
 
 - `⇧⌘M`: Change note type
-- Right-click the heading to add columns (e.g., "Created")
+- Right-click the heading to add columns (e.g., `Created`)
 - Cards with a yellow background are suspended, hit `⌘J` to toggle.
 
 ## Reverse
@@ -39,4 +39,4 @@ The three numbers are:
 
 ## Tips
 
-- The technique of automatically handling filling-in-the-blanks is called "cloze deletions"
+- The technique of automatically handling filling-in-the-blanks is called "close deletions"
