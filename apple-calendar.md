@@ -5,6 +5,7 @@
 ## Settings
 
 - Toggle off `Preferences > Alerts > Show invitation messages in Notification Center`
+- In the sidebar, toggle off `Other > Scheduled Reminders` to hide reminders in the calendar
 
 ## Exchange
 
