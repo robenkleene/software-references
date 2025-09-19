@@ -4,14 +4,14 @@
 
 - `⌃⌥␣` is bound by `Input Sources > Select next source in Input menu` by default, this binding should be disabled (Emacs uses this key to select the current s-expression for example)
 
-## Dication
+## Dictation
 
 - The default keyboard shortcut to show the enable dictation pop-up is `Press Control Key Twice`
 - This can be set (or disabled) under `System Settings > Keyboard > Dictation > Shortcut`
 
 ## Accented Characters
 
-    Settings > Keyboard > Input Source > Other > Unicode Hex Input
+- `Settings > Keyboard > Input Source > Other > Unicode Hex Input`
 
 ## Notes
 
