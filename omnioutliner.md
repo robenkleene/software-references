@@ -19,8 +19,8 @@ The way to think about column editing in OmniOutliner, is that it's not cell bas
 
 ## Settings
 
-- Just turn on `tab` to move between cells and use `⌘[` / `⌘]` to indent or outdent the current row
+- Just turn on `⇥` to move between cells and use `⌘[` / `⌘]` to indent or outdent the current row
 
 ## Themes
 
-To update a theme: select Format -> Apply Template Theme.
+To update a theme, select `Format > Apply Template Theme`.
