@@ -1,9 +1,15 @@
 # macOS Dock
 
-- To reveal an app, `⌘-click` it
-- To hide an app, `⌥-click` it
-- To reveal an item in a folder, `⌘-click` it
-- To open the contents of a folder `⌥⌘-click` it
+## Applications
+
+- `⌘-click`: Reveal
+- `⌥-click`: Hide the frontmost app, and switch to the clicked app
+- `⌥⌘-click`: Hide other apps
+
+## Folders
+
+- `⌘-click`: Reveal
+- `⌥⌘-click`: Open the folder in the Finder
 
 ## App Contextual Menu
 
