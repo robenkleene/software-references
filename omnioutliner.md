@@ -7,7 +7,7 @@ The way to think about column editing in OmniOutliner, is that it's not cell bas
 - `↩`: Create a new row below
 - `⇧↩`: Create a new row above
 - `⎋`: Start editing current cell
-- `⌘↩`: End editing current cell
+- `⌘↩`: Start or end editing current cell (prefer this for editing because it works in both OmniFocus and OmniOutliner)
 
 ## Sorting
 
