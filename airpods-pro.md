@@ -7,3 +7,7 @@
 ## iOS
 
 To switch between modes on iOS, open `Control Center` and push and hold on the volume slider, then choose the mode in the lower left.
+
+## Settings
+
+Under `Bluetooth > AirPods Pro > Press and Hold to Cycle Between` toggle off `Transparency` and on `Adaptive` to prefer `Adaptive`
