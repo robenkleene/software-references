@@ -1,5 +1,8 @@
 # OmniOutliner
 
+- `⌘'`: Toggle note
+- `⌃⌘'`: Toggle all notes
+
 ## Outlining
 
 The way to think about column editing in OmniOutliner, is that it's not cell based. You just move between cells like you're editing a line of text (e.g., use move by word commands).
