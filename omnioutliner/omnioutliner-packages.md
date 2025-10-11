@@ -9,3 +9,5 @@ As a file package, the contents are stored as a `.xml` file with some additional
 ## OPML
 
 OmniOutliner can also read and write `.opml` files, but this disables rich text and linking to referenced files.
+
+- Checkboxes *are* supported by OmniOutliner in OPML.
