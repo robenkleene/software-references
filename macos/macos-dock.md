@@ -1,6 +1,7 @@
 # macOS Dock
 
 - `⌃F3`: Focus Dock
+- When clicking the Dock icon, all windows for an application are brought forward
 
 ## Keyboard Focus
 
