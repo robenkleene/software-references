@@ -1,5 +1,9 @@
 # OmniOutliner
 
+- `⌘-click` a row to select it (e.g., this avoids toggling a checkbox or a disclosure indicator, or starting to edit a row)
+
+## Notes
+
 - `⌘'`: Toggle note
 - `⌃⌘'`: Toggle all notes
 
