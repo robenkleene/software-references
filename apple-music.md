@@ -6,7 +6,8 @@
 
 ## Sync
 
-To force iCloud Music to sync, choose `File > Library > Update iCloud Library`.
+- To force iCloud Music to sync, choose `File > Library > Update iCloud Library`.
+- `killall itunescloudd` might help Apple Music start syncing again
 
 ## Airplay
 
