@@ -1,5 +1,7 @@
 # Apple Photos
 
+- `.`: Favorite photo
+
 ## Video
 
 - `⌥␣`: Play / pause
