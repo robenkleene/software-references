@@ -13,3 +13,9 @@ To switch between modes on iOS, open `Control Center` and push and hold on the v
 ## Settings
 
 Under `Bluetooth > AirPods Pro > Press and Hold to Cycle Between` toggle off `Transparency` and on `Adaptive` to prefer `Adaptive`
+
+## Siri
+
+- `Rewind 30 seconds`
+- `Switch to noise canceling`
+- `Switch to transparency mode`
