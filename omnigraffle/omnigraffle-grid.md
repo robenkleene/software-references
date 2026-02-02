@@ -6,5 +6,7 @@ The grid settings are under "Canvas" in the right sidebar, some good settings ar
 
 ## Example Settings
 
+Under `Inspector > Canvas > Grid`
+
 - **Major Grid Spacing**: `40px`
 - **Minor Grid Steps**: `4px`
