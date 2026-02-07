@@ -19,3 +19,13 @@ Under `Bluetooth > AirPods Pro > Press and Hold to Cycle Between` toggle off `Tr
 - `Rewind 30 seconds`
 - `Switch to noise canceling`
 - `Switch to transparency mode`
+
+
+## Troubleshooting
+
+### One Dead AirPod
+
+1. Close the case with both in for one minute
+2. Open the lid then quickly close again for 30 seconds
+3. Try just the dead AirPod
+
