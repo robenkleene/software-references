@@ -1,8 +1,26 @@
 # Apple Notes
 
-- Double-click on a note to float it (or select "Float Selected Note") from the menu
 - `⇧⌘U`: Toggle checkbox
 - Click and hold a list item to re-order it
+
+## Open Note in New Window
+
+- Double-click a note in the list
+- Right-click a note and choose `Open Note in New Window`
+- Choose `Window > Open Note in New Window`
+
+## Math
+
+Notes can do simple math, e.g., `1 + 1 =` on a new line will show the result.
+
+### Variables
+
+It also supports variables.
+
+```
+foo = 1
+foo * 2 =
+```
 
 ## Settings
 
