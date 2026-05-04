@@ -1,6 +1,9 @@
 # Apple Notes
 
-- `⇧⌘U`: Toggle checkbox
+## Lists
+
+- `⇧⌘L`, `Format > Checklist`, checklist toolbar icon: Format checklist
+- `⇧⌘U`, `Format > Mark as Checked`: Toggle checkbox
 - Click and hold a list item to re-order it
 
 ## Open Note in New Window
