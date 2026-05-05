@@ -25,6 +25,10 @@ foo = 1
 foo * 2 =
 ```
 
+Results of calculations can also be stored in variables.
+
+`foo = 1 + 1 =`
+
 ## Settings
 
 - Toggle off `Edit > Substitutions > Smart Lists`, which makes it easier to cut and paste plain text
