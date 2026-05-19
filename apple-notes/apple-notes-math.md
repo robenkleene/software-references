@@ -14,3 +14,7 @@ foo * 2 =
 Results of calculations can also be stored in variables.
 
 `foo = 1 + 1 =`
+
+## Math Notes Folder
+
+There's a special folder in Notes called `Math Notes`. It can be accessed normally, or from the Calculator app by choosing `View > Math Notes` (`⌃⌘M`).
