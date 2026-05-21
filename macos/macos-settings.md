@@ -9,14 +9,6 @@
 - The default keyboard shortcut to show the enable dictation pop-up is `Press Control Key Twice`
 - This can be set (or disabled) under `System Settings > Keyboard > Dictation > Shortcut`
 
-## Accented Characters
-
-- `Settings > Keyboard > Input Source > Other > Unicode Hex Input`
-
-## Notes
-
-- To turn off screenshot thumbnails, use `⇧⌘5`, then toggle off `Options > Show Floating Thumbnail`
-
 ## Defaults
 
 Disable new window animations:
