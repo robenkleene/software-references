@@ -25,6 +25,7 @@ The way to think about column editing in OmniOutliner, is that it's not cell bas
 ## Columns
 
 - You can't delete the default column (the one with the row handles). You also can't switch which column this is, or seemingly even cut and paste a column.
+- You can't select or copy a single column in OmniOutliner (remember too that rows within columns can be nested)
 - The type of a column (`Date`, `Checkbox`, `Rich Text`, `Number`, `Duration`, `Pop-Up List`), can be set in the `Inspector > Selection Style > Column Type > Type`
 
 ## Settings
