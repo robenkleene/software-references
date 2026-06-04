@@ -1,4 +1,4 @@
-# OmniFocus 3
+# OmniFocus
 
 ## Editing an Entry
 
