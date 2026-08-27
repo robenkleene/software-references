@@ -16,15 +16,19 @@ Bindings that are active when the Dock has focus.
 - `⌥-click`: Hide the frontmost app, and switch to the clicked app
 - `⌥⌘-click`: Hide other apps
 
+### Contextual Menus
+
+#### Icons
+
+- **Dot:** Unsaved changes
+- **Check mark:** Frontmost window
+- **Diamond:** Minimized in the Dock
+
 ## Folders
 
 - `⌘-click`: Reveal
 - `⌥⌘-click`: Open the folder in the Finder
 
-## App Contextual Menu
+### Settings
 
-### App Window Icons
-
-- **Dot:** Unsaved changes
-- **Check mark:** Frontmost window
-- **Diamond:** Minimized in the Dock
+- Set to `View content as: Grid` in order to be able to traverse into folder contents

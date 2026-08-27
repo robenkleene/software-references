@@ -1,5 +1,7 @@
 # OmniGraffle Text
 
+## Lists
+
 ## Tips
 
 ### Labels on Top of Objects
