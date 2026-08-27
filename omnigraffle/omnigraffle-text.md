@@ -2,6 +2,8 @@
 
 ## Lists
 
+When the text tool is active, you can create lists from the contextual tool bar below the application toolbar.
+
 ## Tips
 
 ### Labels on Top of Objects
