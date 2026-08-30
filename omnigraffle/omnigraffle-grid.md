@@ -1,4 +1,4 @@
-# Omnigraffle Grid
+# OmniGraffle Grid
 
 The grid settings are under "Canvas" in the right sidebar, some good settings are:
 
