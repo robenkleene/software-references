@@ -31,4 +31,5 @@ Bindings that are active when the Dock has focus.
 
 ### Settings
 
-- Set to `View content as: Grid` in order to be able to traverse into folder contents
+- Set `View content as: Grid` in order to be able to traverse into folder contents
+- Set `Display as: Folder` (instead of `Stack`) otherwise when a single file is in the folder, it looks exactly like the icon for a single file which is confusing (e.g., it means it seems like you can drag the file like you normally can but in reality this will just remove the folder from the Dock)
