@@ -13,3 +13,9 @@
 ## Slow Address Bar
 
 This is related to history, setting `General > Remove history items: After two weeks` seems fine
+
+## Videos Not Playing
+
+```
+killall com.apple.WebKit.GPU
+```
